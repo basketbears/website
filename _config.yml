@@ -36,7 +36,7 @@ plugins:
 
 domain: beta.basketbears.de
 url: https://beta.basketbears.de
-baseurl: /
+baseurl: /website
 
 # Exclude from processing.
 # The following items will not be processed, by default.
