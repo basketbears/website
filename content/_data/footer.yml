@@ -1,0 +1,6 @@
+- name: Impressum
+  link: /impressum
+- name: Datenschutz
+  link: /datenschutz
+- name: Kontakt
+  link: /kontakt/kontakt

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="content">
+
+    {% if page.series %}
+        {% include series.html %}
+    {% endif %}
+
+    {{ content }}
+</div>
+
+<div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag %}
+    {% endfor %}
+</div>
+
+<small>{{ page.date | date: "%-d. %B %Y" }} von {{ page.author }}</small>
+{% if page.image_source %}
+<br><small>Bild: {{ page.image_source }}</small>
+{% endif %}
+
+{% unless site.hide_share_buttons %}
+{% include share-buttons.html %}
+{% endunless %}
+
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}

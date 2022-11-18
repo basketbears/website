@@ -1,0 +1,9 @@
+---
+---
+$primary: #1c4586;
+// Import Main CSS file from theme
+@import "main";
+
+.footer .container .content.is-small.has-text-centered {
+  display: none;
+}
