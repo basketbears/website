@@ -27,6 +27,14 @@ $primary: #1c4586;
   font-size: 0.875em;
 }
 
+.small-card-date {
+  margin-top: -1rem;
+  display: flex;
+  justify-content: end;
+  font-size: 0.875em;
+  color: $title-color;
+}
+
 .player, .coach {
   margin-bottom: 0.2rem;
 }
@@ -35,6 +43,14 @@ $primary: #1c4586;
   height: 100%;
   display: flex;
   flex-direction: column;
+
+  >a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: $title-color;
+  }
 
   .card-content {
     display: flex;
@@ -48,7 +64,6 @@ $primary: #1c4586;
 }
 
 .card-image img {
-  height: 300px;
   width: 100%;
   object-fit: cover;
 }
