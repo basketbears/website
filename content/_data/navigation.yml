@@ -2,7 +2,7 @@
   link: /jugend/info
   dropdown:
     - name: Jurobacup
-      link: /jugend/jurobacup/
+      link: /jugend/jurobacup
 - name: 1. Mannschaft
   link: /erstemannschaft/info
   dropdown:
