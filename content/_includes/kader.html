@@ -1,8 +1,8 @@
-<ul>
+<div class="players">
   {% for player in page.players %}
-  <li>{{player}}</li>
+  <div class="player">{{player}}</div>
   {% endfor %}
   {% if page.coach %}
-  <li><b>Coach:</b> {{page.coach}}</li>
+  <div class="coach"><b>Coach:</b> {{page.coach}}</div>
   {% endif %}
-</ul>
+</div>

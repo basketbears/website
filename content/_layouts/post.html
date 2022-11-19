@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<div class="publish-info">
+{{ page.date | date: "%-d. %B %Y" }}<br>
+{{ page.author }}<br>
+{% if page.image_source %}
+Bild: {{ page.image_source }}<br>
+{% endif %}
+</div>
+
 <div class="content">
 
     {% if page.series %}
@@ -16,11 +24,6 @@ layout: default
       {% include tag.html tag=tag %}
     {% endfor %}
 </div>
-
-<small>{{ page.date | date: "%-d. %B %Y" }} von {{ page.author }}</small>
-{% if page.image_source %}
-<br><small>Bild: {{ page.image_source }}</small>
-{% endif %}
 
 {% unless site.hide_share_buttons %}
 {% include share-buttons.html %}
