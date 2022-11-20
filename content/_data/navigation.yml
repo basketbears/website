@@ -1,5 +1,5 @@
 - name: Jugend
-  link: /jugend/info/
+  link: /jugend/
   dropdown:
     - name: Jurobacup
       link: /jugend/jurobacup/

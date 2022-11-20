@@ -9,6 +9,7 @@
         <div class="column is-2-widescreen is-3-desktop is-4-tablet is-6-mobile">
             <div class="card">
                 <div class="card-image">
+                  <!--TODO: implement... href or something in gallery to allow opening a url instead of opening the image in a modal-->
                     {% include image-modal.html ratio=image.ratio link=image.link alt=image.alt large_link=image.large_link %}
                 </div>
                 {% if image.description %}
