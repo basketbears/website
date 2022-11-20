@@ -1,0 +1,13 @@
+<div
+  class="card"
+  {% if include.style %}
+  style="{{include.style}}"
+  {% endif %}
+>
+  <iframe
+    src="{{include.src}}"
+    style="border-width: 0"
+    width="100%"
+    height="{{include.height}}"
+  ></iframe>
+</div>
