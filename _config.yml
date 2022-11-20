@@ -41,6 +41,7 @@ lang: de
 fixed_navbar: top
 footer_menu: footer
 hide_share_buttons: true
+permalink: pretty
 defaults:
   -
     scope:
