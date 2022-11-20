@@ -63,6 +63,14 @@ $primary: #1c4586;
   }
 }
 
+.iframe-card {
+  overflow: hidden;
+  height: auto;
+  .card-content {
+    padding: 0;
+  }
+}
+
 .card-image img {
   width: 100%;
   object-fit: cover;
