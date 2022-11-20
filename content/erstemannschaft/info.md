@@ -27,6 +27,8 @@ Eine unglaublich starke Gemeinschaft! Und das spiegelt sich auch im Talent des g
 - Montags von 17:30 bis 20:00 Uhr 
 - Donnerstags von 18:30 - 20:00 Uhr
 
-![](/img/erste-mannschaft.jpg)
+<div class="card">
+  <img src="/img/erste-mannschaft.jpg">
+</div>
 
 </div>

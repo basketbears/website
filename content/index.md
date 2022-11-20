@@ -36,10 +36,8 @@ Du möchtest Spiel und Spaß in einem Team, aus behinderten und nichtbehinderten
 #### Landesliga west
 **Unsere nächsten Spiele**  
 <sup>Quelle: [www.basketball-bund.net](www.basketball-bund.net)</sup>
-<div class="card iframe-card" style="margin-top: -1rem">
-    <div class="card-content">
-        <iframe id="iframe_widget_1661884534647" src="https://www.basketball-bund.net/widget/widgets/index2.html#!/mannschaftswidget/mannschaft/311777/params/%7B%22iframeHeight%22:400,%22showRefreshButton%22:true,%22titleColor%22:%22FFFFFF%22,%22titleBgColor%22:%221d1c78%22,%22tapColor%22:%22FFFFFF%22,%22tapBgColor%22:%22F36E20%22,%22colorMatchGroup%22:%22666666%22,%22bgColorMatchGroup%22:%22F0F0F0%22,%22colorMatchListItem%22:%22000000%22,%22bgColorMatchListItem%22:%22FFFFFF%22,%22showKuerzelInSpiele%22:false,%22mannschaftsId%22:%22311777%22%7D" style="border-width: 0" width="100%" height="400"></iframe>
-    </div>
+<div class="card" style="margin-top: -1rem">
+    <iframe id="iframe_widget_1661884534647" src="https://www.basketball-bund.net/widget/widgets/index2.html#!/mannschaftswidget/mannschaft/311777/params/%7B%22iframeHeight%22:400,%22showRefreshButton%22:true,%22titleColor%22:%22FFFFFF%22,%22titleBgColor%22:%221d1c78%22,%22tapColor%22:%22FFFFFF%22,%22tapBgColor%22:%22F36E20%22,%22colorMatchGroup%22:%22666666%22,%22bgColorMatchGroup%22:%22F0F0F0%22,%22colorMatchListItem%22:%22000000%22,%22bgColorMatchListItem%22:%22FFFFFF%22,%22showKuerzelInSpiele%22:false,%22mannschaftsId%22:%22311777%22%7D" style="border-width: 0" width="100%" height="400"></iframe>
 </div>
 
 </div>
@@ -48,6 +46,7 @@ Du möchtest Spiel und Spaß in einem Team, aus behinderten und nichtbehinderten
 ---
 #### News
 </div>
+
 {% for post in site.posts limit:6 %}
 <div class="column is-6 is-4-widescreen">
   {% include post-card-small.html %}
