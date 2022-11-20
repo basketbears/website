@@ -7,7 +7,7 @@ title: Basket Bears Krefeld
 
 #### Trainingszeiten
 
-<div style="max-width: 450px" markdown="1">
+<div style="max-width: 450px; white-space: nowrap" markdown="1">
 
 |            | Jugend        | 1. Mannschaft |
 | ---------- | ------------- | ------------- |
