@@ -3,8 +3,8 @@ layout: post
 title:  "Ein Team - Ein Ziel!"
 author: Johannes v. Heereman
 summary: "Basket Bears weiter auf Erfolgskurs .."
-image: /img/2022-11-06-ein-team-ein-ziel.jpg
-hero_image: /img/2022-11-06-ein-team-ein-ziel.jpg
+image: /img/news/2022-11-06-ein-team-ein-ziel.webp
+hero_image: /img/news/2022-11-06-ein-team-ein-ziel.webp
 hero_darken: true
 players: [Jana Bartlick (#4), Johannes v. Heereman (#6), Sven Kaiser (#7), Jill Kaiser-Föhles (#8), Linda Hövel (#9), Anna Bartlick (#10), Philippe Parthier (#11), Yannik Parthier (#12), Jakobus v. Lengerke (#15), Robin Croonenbroeck (#19), Heiko Mathes (#21), Mike Lausberg (#25), Sven Kühne (#26)]
 coach: Sven Kaiser

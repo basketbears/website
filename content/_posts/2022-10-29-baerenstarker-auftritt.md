@@ -3,8 +3,8 @@ layout: post
 title:  "Bärenstarker Auftritt"
 summary: "Basket Bears holen dritten Sieg in Folge und klettern an die Tabellenspitze! .."
 author: Sven Kaiser und Jill Kaiser-Föhles
-image: /img/2022-10-29-baerenstarker-auftritt.jpg
-hero_image: /img/2022-10-29-baerenstarker-auftritt.jpg
+image: /img/news/2022-10-29-baerenstarker-auftritt.webp
+hero_image: /img/news/2022-10-29-baerenstarker-auftritt.webp
 hero_darken: true
 players: [Jana Bartlick (#4), Johannes v. Heereman (#6), Sven Kaiser (#7), Anna Bartlick (#10) , Philippe Parthier (#11), Yannik Parthier (#12), Jakobus v. Lengerke (#15), Robin Croonenbroeck (#19), Mike Lausberg (#25), Sven Kühne (#26)]
 Coach: Sven Kaiser

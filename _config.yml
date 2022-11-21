@@ -47,7 +47,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      hero_image: /img/hero.jpg
+      hero_image: /img/hero.webp
       hero_darken: true
 
 # Exclude from processing.
