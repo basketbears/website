@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
 
 domain: beta.basketbears.de
-source: content
 lang: de
 
 fixed_navbar: top
