@@ -33,6 +33,9 @@ jobs:
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
       
+      - uses: actions/checkout@v3
+        with:
+          ref: 'gh-pages'
       - uses: actions/setup-node@v3
         with:
           node-version: 16
