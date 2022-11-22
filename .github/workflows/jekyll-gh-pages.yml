@@ -43,6 +43,12 @@ jobs:
           node-version: 16
       - run: npm ci
       - run: npm run purgecss
+    - name: Commit files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git pull
+        git commit -a -m "Purge css"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
