@@ -37,6 +37,7 @@ jobs:
         with:
           ref: 'gh-pages'
           path: 'gh-pages'
+      - run: cd gh-pages
       - uses: actions/setup-node@v3
         with:
           node-version: 16
