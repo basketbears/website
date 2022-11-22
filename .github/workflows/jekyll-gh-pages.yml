@@ -33,6 +33,5 @@ jobs:
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
       - uses: actions/checkout@v3
-        with: basketbears/website # Repository name with owner. For example, actions/checkout Default: ${{ github.repository }}
       - uses: ./.github/workflows/purgecss-in-prod.yml
 
