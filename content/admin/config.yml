@@ -7,6 +7,22 @@ media_folder: "content/img"
 public_folder: "img"
 
 collections:
+  - label: "Seiten"
+    name: "seiten"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Layout, name: layout, widget: string}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
