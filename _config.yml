@@ -36,6 +36,7 @@ plugins:
 
 domain: beta.basketbears.de
 lang: de
+include: [.github]
 
 fixed_navbar: top
 footer_menu: footer
