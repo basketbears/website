@@ -32,26 +32,4 @@ jobs:
           cname: 'beta.basketbears.de'                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
-      
-      - uses: actions/checkout@v3
-        with:
-          ref: 'gh-pages'
-          path: 'gh-pages'
-      - run: cd gh-pages
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
-      - run: npm ci
-      - run: npm run purgecss
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git pull
-          git commit -a -m "Purge css"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-          branch: gh-pages
 
