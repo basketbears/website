@@ -30,14 +30,6 @@ collections:
         fields:
           - *layout-field
           - *body-field
-      - label: "Jugend2"
-        name: jugend2
-        folder: "content/jugend"
-        nested:
-          depth: 2
-        fields:
-          - *layout-field
-          - *body-field
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
@@ -56,3 +48,12 @@ collections:
       - {label: "Spieler", name: "players", widget: "list", required: false}
       - {label: "Coach", name: "coach", widget: "string", required: false}
       - *body-field
+  
+    - label: "Jugend2"
+      name: jugend2
+      folder: "content/jugend"
+      nested:
+        depth: 2
+      fields:
+        - *layout-field
+        - *body-field
