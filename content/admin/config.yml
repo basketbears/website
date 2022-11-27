@@ -33,8 +33,8 @@ collections:
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
-    media_folder: 'content/img/news'
-    public_folder: '/img/news'
+    media_folder: '{{media_folder}}/news'
+    public_folder: '{{public_folder}}/news'
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
