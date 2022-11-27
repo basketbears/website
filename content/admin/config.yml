@@ -49,11 +49,11 @@ collections:
       - {label: "Coach", name: "coach", widget: "string", required: false}
       - *body-field
   
-    - label: "Jugend2"
-      name: jugend2
-      folder: "content/jugend"
-      nested:
-        depth: 2
-      fields:
-        - *layout-field
-        - *body-field
+  - label: "Jugend2"
+    name: jugend2
+    folder: "content/jugend"
+    nested:
+      depth: 2
+    fields:
+      - *layout-field
+      - *body-field
