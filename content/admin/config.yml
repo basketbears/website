@@ -3,7 +3,7 @@ backend:
   branch: main
 
 publish_mode: editorial_workflow
-media_folder: "content/img"
+media_folder: "/content/img"
 public_folder: "/img"
 
 definitions:
@@ -34,7 +34,7 @@ collections:
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
     path: '{{slug}}'
-    media_folder: '{{media_folder}}/news'
+    media_folder: '/content/img/news'
     public_folder: '{{public_folder}}/news'
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
