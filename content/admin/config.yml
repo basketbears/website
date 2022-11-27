@@ -6,6 +6,21 @@ publish_mode: editorial_workflow
 media_folder: "content/img"
 public_folder: "img"
 
+definitions:
+  layouts: &layouts
+    - default
+    - page
+    - columns
+    - post
+    - blog
+    - product-category
+    - product
+    - recipe
+  fields:
+    - layout: &layout-field
+      {label: Layout, name: layout, widget: select, options: *layouts}
+
+
 collections:
   - label: "Seiten"
     name: "seiten"
@@ -15,7 +30,7 @@ collections:
         file: "content/index.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Layout, name: layout, widget: string}
+          - *layout-field
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
