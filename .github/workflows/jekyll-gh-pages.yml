@@ -1,4 +1,4 @@
-name: Purge CSS
+name: Build and Deploy to Github Pages
 
 on:
   push:
