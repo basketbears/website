@@ -1,6 +1,6 @@
 module.exports = {
   content: ["./**/*.html"],
-  css: ["./assets/css/*.css"],
-  output: "./assets/css/",
+  css: ["./css/*.css"],
+  output: "./css/",
   skippedContentGlobs: ['./node_modules/**'],
 };
