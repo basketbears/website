@@ -30,14 +30,6 @@ collections:
         fields:
           - *layout-field
           - *body-field
-      - label: "Test"
-        name: test
-        folder: "content"
-        nested:
-          depths: 100
-        fields:
-          - *layout-field
-          - *body-field
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
@@ -55,4 +47,13 @@ collections:
       - {label: "Bildquelle", name: "image_source", widget: "string", required: false}
       - {label: "Spieler", name: "players", widget: "list", required: false}
       - {label: "Coach", name: "coach", widget: "string", required: false}
+      - *body-field
+
+  - label: "Test"
+    name: test
+    folder: "content"
+    nested:
+      depths: 100
+    fields:
+      - *layout-field
       - *body-field
