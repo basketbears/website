@@ -41,5 +41,5 @@ collections:
       - {label: "Header-Bild", name: "hero_image", widget: "image"}
       - {label: "Bildquelle", name: "image_source", widget: "string", required: false}
       - {label: "Spieler", name: "players", widget: "list", required: false}
-      - {label: "Coach", name: "coach", widget: "select", required: false}
+      - {label: "Coach", name: "coach", widget: "string", required: false}
       - *body-field
