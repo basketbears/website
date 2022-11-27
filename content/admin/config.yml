@@ -7,20 +7,11 @@ media_folder: "content/img"
 public_folder: "img"
 
 definitions:
-  layouts: &layouts
-    - default
-    - page
-    - columns
-    - post
-    - blog
-    - product-category
-    - product
-    - recipe
   fields:
     - layout: &layout-field
-        {label: Layout, name: layout, widget: select, options: [- *layouts]}
-    - layout: &test-field
-        {label: Test, name: test, widget: select, options: ['abc']}
+        {label: Layout, name: layout, widget: select, options: ['default', 'page', 'columns', 'post', 'blog', 'product-category', 'product', 'recipe']}
+    - body: &body-field
+        {label: Inhalt, name: body, widget: markdown}
 
 
 collections:
@@ -33,7 +24,7 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - *layout-field
-          - {label: "Body", name: "body", widget: "markdown"}
+          - *body-field
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
