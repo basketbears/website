@@ -22,7 +22,6 @@ collections:
         name: "home"
         file: "content/index.md"
         fields:
-          - {label: Title, name: title, widget: string}
           - *layout-field
           - *body-field
   - name: "news" # Used in routes, e.g., /admin/collections/blog
@@ -38,5 +37,5 @@ collections:
       - {label: "Header-Bild", name: "hero_image", widget: "image"}
       - {label: "Bildquelle", name: "image_source", widget: "string", required: false}
       - {label: "Spieler", name: "players", widget: "list", required: false}
-      - {label: "Coach", name: "coach", widget: "list", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Coach", name: "coach", widget: "select", required: false}
+      - *body-field
