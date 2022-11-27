@@ -19,11 +19,13 @@ collections:
     name: "seiten"
     files:
       - label: "Home"
+        name: home
         file: "content/index.md"
         fields:
           - *layout-field
           - *body-field
       - label: "Jugend"
+        name: jugend
         file: "content/jugend/index.md"
         fields:
           - *layout-field
