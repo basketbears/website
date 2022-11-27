@@ -53,7 +53,7 @@ collections:
     name: test
     folder: "content"
     nested:
-      depths: 100
+      depth: 100
     fields:
       - *layout-field
       - *body-field
