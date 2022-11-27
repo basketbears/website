@@ -18,7 +18,9 @@ definitions:
     - recipe
   fields:
     - layout: &layout-field
-      {label: Layout, name: layout, widget: select, options: *layouts}
+        {label: Layout, name: layout, widget: select, options: [- *layouts]}
+    - layout: &test-field
+        {label: Test, name: test, widget: select, options: ['abc']}
 
 
 collections:
