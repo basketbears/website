@@ -24,12 +24,6 @@ collections:
         fields:
           - *layout-field
           - *body-field
-      - label: "Jugend"
-        name: jugend
-        file: "content/jugend/index.md"
-        fields:
-          - *layout-field
-          - *body-field
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
