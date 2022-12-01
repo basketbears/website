@@ -138,4 +138,14 @@ collections:
     fields:
       - {label: Inhalt, name: body, widget: code, default_language: yaml}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+  - label: "[content]"
+    name: "."
+    folder: "content"
+    create: true
+    extension: md
+    nested:
+      depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: code, default_language: md}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
