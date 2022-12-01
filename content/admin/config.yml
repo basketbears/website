@@ -108,4 +108,19 @@ collections:
       - {label: "Spieler", name: "players", widget: "list", required: false}
       - {label: "Coach", name: "coach", widget: "string", required: false}
       - *body-field
+  - label: "[layouts]"
+    name: "_layouts"
+    folder: "content/_layouts"
+    nested:
+      depth: 100
+  - label: "[includes]"
+    name: "_includes"
+    folder: "content/_includes"
+    nested:
+      depth: 100
+  - label: "[data]"
+    name: "_data"
+    folder: "content/_data"
+    nested:
+      depth: 100
 
