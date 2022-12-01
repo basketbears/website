@@ -116,7 +116,7 @@ collections:
     nested:
       depth: 100
     fields:
-      - {label: Inhalt, name: body, widget: code}
+      - {label: Inhalt, name: body, widget: code, output_code_only: true}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
   - label: "[includes]"
     name: "_includes"
@@ -126,7 +126,7 @@ collections:
     nested:
       depth: 100
     fields:
-      - {label: Inhalt, name: body, widget: code}
+      - {label: Inhalt, name: body, widget: code, output_code_only: true}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
   - label: "[data]"
     name: "_data"
@@ -136,6 +136,6 @@ collections:
     nested:
       depth: 100
     fields:
-      - {label: Inhalt, name: body, widget: code}
+      - {label: Inhalt, name: body, widget: code, output_code_only: true}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
