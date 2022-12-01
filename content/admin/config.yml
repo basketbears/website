@@ -113,14 +113,20 @@ collections:
     folder: "content/_layouts"
     nested:
       depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: text}
   - label: "[includes]"
     name: "_includes"
     folder: "content/_includes"
     nested:
       depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: text}
   - label: "[data]"
     name: "_data"
     folder: "content/_data"
     nested:
       depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: text}
 
