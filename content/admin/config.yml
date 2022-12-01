@@ -115,7 +115,7 @@ collections:
     extension: html
     nested:
       depth: 100
-      summary: {{path}}
+      summary: '{{path}}'
     fields:
       - {label: Inhalt, name: body, widget: code}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
@@ -126,7 +126,7 @@ collections:
     extension: html
     nested:
       depth: 100
-      summary: {{path}}
+      summary: '{{path}}'
     fields:
       - {label: Inhalt, name: body, widget: code}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
@@ -137,7 +137,7 @@ collections:
     extension: yml
     nested:
       depth: 100
-      summary: {{path}}
+      summary: '{{path}}'
     fields:
       - {label: Inhalt, name: body, widget: code}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
