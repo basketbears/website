@@ -111,25 +111,34 @@ collections:
   - label: "[layouts]"
     name: "_layouts"
     folder: "content/_layouts"
+    create: true
     extension: html
     nested:
       depth: 100
+      summary: {{path}}
     fields:
-      - {label: Inhalt, name: body, widget: text}
+      - {label: Inhalt, name: body, widget: code}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
   - label: "[includes]"
     name: "_includes"
     folder: "content/_includes"
+    create: true
     extension: html
     nested:
       depth: 100
+      summary: {{path}}
     fields:
-      - {label: Inhalt, name: body, widget: text}
+      - {label: Inhalt, name: body, widget: code}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
   - label: "[data]"
     name: "_data"
     folder: "content/_data"
+    create: true
     extension: yml
     nested:
       depth: 100
+      summary: {{path}}
     fields:
-      - {label: Inhalt, name: body, widget: text}
+      - {label: Inhalt, name: body, widget: code}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
