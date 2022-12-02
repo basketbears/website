@@ -90,6 +90,24 @@ collections:
         fields:
           - *layout-field
           - *body-field
+      - label: "Datenschutz"
+        name: datenschutz
+        file: "content/datenschutz.md"
+        fields:
+          - *layout-field
+          - *body-field
+      - label: "Impressum"
+        name: impressum
+        file: "content/impressum.md"
+        fields:
+          - *layout-field
+          - *body-field
+      - label: "404"
+        name: 404
+        file: "content/404.md"
+        fields:
+          - *layout-field
+          - *body-field
 
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
