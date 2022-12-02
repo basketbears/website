@@ -151,5 +151,5 @@ collections:
       - {label: Inhalt, name: body, widget: code, default_language: markdown, output_code_only: true}
       - {label: aaa, name: aaa, widget: string, default: '{{slug}}'}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-    summary: 'A - {{path}} - {{title}} - {{slug}} - {{meta.path}} - {{name}} - {{aaa}}'
+    summary: 'A - {{dirname}}/{{filename}}.{{extension}}'
 
