@@ -90,6 +90,7 @@ collections:
         fields:
           - *layout-field
           - *body-field
+
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
@@ -108,6 +109,16 @@ collections:
       - {label: "Spieler", name: "players", widget: "list", required: false}
       - {label: "Coach", name: "coach", widget: "string", required: false}
       - *body-field
+
+  - label: "Konfiguration"
+    name: "config"
+    files:
+      - label: "Navigation"
+        name: navigation
+        file: "content/_data/navigation.yml"
+        fields:
+          - {label: Inhalt, name: body, widget: code, default_language: yaml, output_code_only: true}
+
   - label: "[layouts]"
     name: "_layouts"
     folder: "content/_layouts"
