@@ -145,7 +145,7 @@ collections:
     extension: md
     nested:
       depth: 100
-      title: 'BBB'
+      summary: '{{slug}}'
     fields:
       - {label: Inhalt, name: body, widget: code, default_language: markdown, output_code_only: true}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
