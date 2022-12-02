@@ -135,6 +135,7 @@ collections:
     extension: yml
     nested:
       depth: 100
+      summary: '{{meta.path}}'
     fields:
       - {label: Inhalt, name: body, widget: code, default_language: yaml}
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
