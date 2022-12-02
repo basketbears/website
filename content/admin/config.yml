@@ -103,7 +103,7 @@ collections:
           - *layout-field
           - *body-field
       - label: "404"
-        name: 404
+        name: "404"
         file: "content/404.md"
         fields:
           - *layout-field
