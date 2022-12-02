@@ -13,7 +13,7 @@ definitions:
     - body: &body-field
         {label: Inhalt, name: body, widget: markdown}
     - title: &title-field
-        {label: "Title", name: "title", widget: "string"}
+        {label: "Title", name: "title", widget: "string", required: false}
 
 
 collections:
