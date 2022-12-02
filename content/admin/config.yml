@@ -145,7 +145,7 @@ collections:
     name: "_data"
     folder: "content/_data"
     create: true
-    extension: yaml
+    extension: yml
     nested:
       depth: 100
     fields:
