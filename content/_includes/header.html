@@ -14,8 +14,8 @@
       <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
           <div class="navbar-start">
               <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a>
-              {% if site.data.navigation %}
-              {% for item in site.data.navigation %}
+              {% if site.data.navigation.items %}
+              {% for item in site.data.navigation.items %}
                   {% if item.dropdown %}
                   <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
                       <a href="{{ item.link | relative_url }}" class="navbar-link {% if page.url contains item.link %}is-active{% endif %}">{{ item.name }}</a>
