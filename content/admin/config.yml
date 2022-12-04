@@ -152,29 +152,28 @@ collections:
         name: navigation
         file: "content/_data/navigation.yml"
         fields:
-          - label: 'Navigationseinträge'
-            name: 'items'
-            widget: 'list'
-            minimize_collapsed: true
-            fields:
-              - label: 'Name'
-                name: 'name'
-                widget: 'string'
-              - label: 'Link'
-                name: 'link'
-                widget: 'string'
-              - label: 'Untermenü'
-                name: 'dropdown'
-                widget: 'list'
-                required: false
-                minimize_collapsed: true
-                fields:
-                  - label: 'Name'
-                    name: 'name'
-                    widget: 'string'
-                  - label: 'Link'
-                    name: 'link'
-                    widget: 'string'
+          - {label: Inhalt, name: body, widget: code, default_language: yaml}
+#          - label: 'Navigationseinträge'
+#            name: 'items'
+#            widget: 'list'
+#            fields:
+#              - label: 'Name'
+#                name: 'name'
+#                widget: 'string'
+#              - label: 'Link'
+#                name: 'link'
+#                widget: 'string'
+#              - label: 'Untermenü'
+#                name: 'dropdown'
+#                widget: 'list'
+#                required: false
+#                fields:
+#                  - label: 'Name'
+#                    name: 'name'
+#                    widget: 'string'
+#                  - label: 'Link'
+#                    name: 'link'
+#                    widget: 'string'
 
   - label: "[layouts]"
     name: "_layouts"
