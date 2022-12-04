@@ -147,11 +147,11 @@ collections:
 
   - label: "Konfiguration"
     name: "config"
+    format: yaml-frontmatter
     files:
       - label: "Navigation"
         name: navigation
         file: "content/_data/navigation.yml"
-        format: yaml-frontmatter
         fields:
           - {label: Inhalt, name: body, widget: code, default_language: yaml, output_code_only: true}
 #          - label: 'Navigationseinträge'
