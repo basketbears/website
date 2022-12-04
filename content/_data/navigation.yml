@@ -1,29 +1,28 @@
-items:
-  - name: Jugend
-    link: /jugend/
-    dropdown:
-      - name: Jurobacup
-        link: /jugend/jurobacup/
-  - name: 1. Mannschaft
-    link: /erstemannschaft/
-    dropdown:
-      - name: Das Team
-        link: /erstemannschaft/team/
-      - name: Landesliga
-        link: /erstemannschaft/landesliga/
-  - name: Verein
-    link: /verein/
-    dropdown:
-      - name: Gründung
-        link: /verein/gruendung/
-      - name: Spenden
-        link: /verein/spenden/
-  - name: News
-    link: /news/
-  - name: Kontakt
-    link: /kontakt/
-    dropdown:
-      - name: Anfahrt
-        link: /kontakt/anfahrt/
-  - name: Partner
-    link: /partner/
+- name: Jugend
+  link: /jugend/
+  dropdown:
+    - name: Jurobacup
+      link: /jugend/jurobacup/
+- name: 1. Mannschaft
+  link: /erstemannschaft/
+  dropdown:
+    - name: Das Team
+      link: /erstemannschaft/team/
+    - name: Landesliga
+      link: /erstemannschaft/landesliga/
+- name: Verein
+  link: /verein/
+  dropdown:
+    - name: Gründung
+      link: /verein/gruendung/
+    - name: Spenden
+      link: /verein/spenden/
+- name: News
+  link: /news/
+- name: Kontakt
+  link: /kontakt/
+  dropdown:
+    - name: Anfahrt
+      link: /kontakt/anfahrt/
+- name: Partner
+  link: /partner/
