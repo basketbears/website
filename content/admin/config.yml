@@ -148,33 +148,14 @@ collections:
   - label: "Konfiguration"
     name: "config"
     format: yaml-frontmatter
+    editor:
+      preview: false
     files:
       - label: "Navigation"
         name: navigation
         file: "content/_data/navigation.yml"
         fields:
           - {label: Inhalt, name: body, widget: code, default_language: yaml, output_code_only: true}
-#          - label: 'Navigationseinträge'
-#            name: 'items'
-#            widget: 'list'
-#            fields:
-#              - label: 'Name'
-#                name: 'name'
-#                widget: 'string'
-#              - label: 'Link'
-#                name: 'link'
-#                widget: 'string'
-#              - label: 'Untermenü'
-#                name: 'dropdown'
-#                widget: 'list'
-#                required: false
-#                fields:
-#                  - label: 'Name'
-#                    name: 'name'
-#                    widget: 'string'
-#                  - label: 'Link'
-#                    name: 'link'
-#                    widget: 'string'
 
   - label: "[layouts]"
     name: "_layouts"
@@ -192,6 +173,8 @@ collections:
     folder: "content/_includes"
     create: true
     extension: html
+    editor:
+      preview: false
     nested:
       depth: 100
     fields:
@@ -203,6 +186,9 @@ collections:
     folder: "content/_data"
     create: true
     extension: yml
+    format: yaml-frontmatter
+    editor:
+      preview: false
     nested:
       depth: 100
     fields:
@@ -214,6 +200,8 @@ collections:
     folder: "content"
     create: true
     extension: md
+    editor:
+      preview: false
     nested:
       depth: 100
       summary: '{{slug}}'
