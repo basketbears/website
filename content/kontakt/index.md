@@ -2,9 +2,9 @@
 layout: columns
 title: Kontakt
 ---
-<﻿div class="column is-12" markdown="1">
+<div class="column is-12" markdown="1">
 
-<﻿/div>
+</div>
 
 <div class="column is-6" markdown="1">
 
@@ -12,22 +12,22 @@ title: Kontakt
 
 Weitere Kontaktdaten:
 
-**1. Vorsitzender**\
-Stephan Parthier\
+**1. Vorsitzender**
+Stephan Parthier
 [stephan.parthier@basketbears.de](mailto:stephan.parthier@basketbears.de)\
-\
-**Sportliche Leitung**\
-Sven Kaiser\
-[sven.kaiser@basketbears.de](mailto:sven.kaiser@basketbears.de)\
-\
+
+**Sportliche Leitung**
+Sven Kaiser
+[sven.kaiser@basketbears.de](mailto:sven.kaiser@basketbears.de)
+
 **Behindertenbeauftragter**\
 Robin Croonenbroeck\
 [robin.croenenbroeck@basketbears.de](mailto:robin.croenenbroeck@basketbears.de)
 
-<﻿/div>
+</div>
 
-<﻿div class="column is-6" markdown="1">
+<div class="column is-6" markdown="1">
 
 **...oder nutze unser Kontaktformular:**
 
-<﻿/div>
+</div>
