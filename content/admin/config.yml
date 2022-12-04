@@ -155,6 +155,7 @@ collections:
           - label: 'Navigationseinträge'
             name: 'items'
             widget: 'list'
+            minimize_collapsed: true
             fields:
               - label: 'Name'
                 name: 'name'
@@ -166,6 +167,7 @@ collections:
                 name: 'dropdown'
                 widget: 'list'
                 required: false
+                minimize_collapsed: true
                 fields:
                   - label: 'Name'
                     name: 'name'
