@@ -11,7 +11,8 @@ definitions:
     - layout: &layout-field
         {label: Layout, name: layout, widget: select, options: ['default', 'page', 'columns', 'post', 'blog', 'product-category', 'product', 'recipe']}
     - body: &body-field
-        {label: Inhalt, name: body, widget: markdown}
+        {label: Inhalt, name: body, widget: code, default_language: markdown}
+#        {label: Inhalt, name: body, widget: markdown}
     - title: &title-field
         {label: "Title", name: "title", widget: "string", required: false}
 
