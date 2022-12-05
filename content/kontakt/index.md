@@ -20,6 +20,7 @@ title: Kontakt
   title="Sportliche Leitung"
   name="Sven Kaiser"
   email="sven.kaiser@basketbears.de"
+  image="/img/profile-pictures/sven.webp"
 %}
 
 </div>

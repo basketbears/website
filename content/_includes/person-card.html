@@ -2,8 +2,13 @@
   <div class="card-header">
     <span class="card-header-title">{{include.title}}</span>
   </div>
-  <div class="card-content">
-    <span>{{include.name}}</span>
-    <a href="mailto:{{include.email}}">{{include.email}}</a>
+  <div class="is-flex is-align-items-center ml-4">
+    <div class="image is-64x64">
+      <img class="is-rounded" src="{{include.image}}" />
+    </div>
+    <div class="card-content pl-4">
+      <span>{{include.name}}</span>
+      <a href="mailto:{{include.email}}">{{include.email}}</a>
+    </div>
   </div>
 </div>
