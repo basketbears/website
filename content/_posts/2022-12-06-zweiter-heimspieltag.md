@@ -50,5 +50,6 @@ Jetzt heißt es für die Bären, in eine kurze Pause zu gehen, bevor es für uns
 
 Wir bedanken uns wie immer bei allen, die uns unterstützt haben. Sei es als aktiver Spieler auf dem Feld oder in den Vorbereitungen sowie in der Organisation am Rand.
 
-Unser Kader beim Spieltag am 13. November 2022:\
+Unser Kader beim Spieltag am 13. November 2022:
+
 {% include kader.html %}
