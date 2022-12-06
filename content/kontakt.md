@@ -36,6 +36,7 @@ Anfahrt über den Lehrerparkplatz am Winnertzweg
   title="1. Vorsitzender"
   name="Stephan Parthier"
   email="stephan.parthier@basketbears.de"
+  emailText="stephan.parthier&ZeroWidthSpace;@basketbears.de"
 %}
 
 </div>
@@ -47,6 +48,8 @@ Anfahrt über den Lehrerparkplatz am Winnertzweg
   title="Behindertenbeauftragter"
   name="Robin Croonenbroeck"
   email="robin.croenenbroeck@basketbears.de"
+  emailText="robin.croenenbroeck&ZeroWidthSpace;@basketbears.de"
+  image="/img/profile-pictures/robin.webp"
 %}
 
 </div>
@@ -58,6 +61,7 @@ Anfahrt über den Lehrerparkplatz am Winnertzweg
   title="Sportliche Leitung"
   name="Sven Kaiser"
   email="sven.kaiser@basketbears.de"
+  emailText="sven.kaiser&ZeroWidthSpace;@basketbears.de"
   image="/img/profile-pictures/sven.webp"
 %}
 

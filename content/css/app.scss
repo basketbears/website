@@ -57,6 +57,11 @@ $primary: #1c4586;
     color: $title-color;
   }
 
+  .card-header {
+    box-shadow: none;
+    border-bottom: 1px solid #dedede
+  }
+
   .card-content {
     display: flex;
     flex-direction: column;
