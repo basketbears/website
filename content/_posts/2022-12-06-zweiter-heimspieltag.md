@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2022-11-19
 title: Zweiter Heimspieltag
 summary: Revanche mit Schwierigkeiten
 author: Robin Croonenbroeck
