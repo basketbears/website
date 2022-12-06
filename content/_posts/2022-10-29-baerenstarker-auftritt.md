@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bärenstarker Auftritt"
+date: 2022-10-29
 summary: "Basket Bears holen dritten Sieg in Folge und klettern an die Tabellenspitze! .."
 author: Sven Kaiser und Jill Kaiser-Föhles
 image: /img/news/2022-10-29-baerenstarker-auftritt.webp

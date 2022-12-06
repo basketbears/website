@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ein Team - Ein Ziel!"
+date: 2022-11-06
 author: Johannes v. Heereman
 summary: "Basket Bears weiter auf Erfolgskurs .."
 image: /img/news/2022-11-06-ein-team-ein-ziel.webp

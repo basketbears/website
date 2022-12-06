@@ -113,7 +113,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: 'Datum', name: 'date', widget: 'datetime', default: '{{year}}-{{month}}-{{day}}', date_format: 'YYYY-MM-DD', time_format: false, format: 'YYYY-MM-DD', picker_utc: false }
+      - {label: 'Datum', name: 'date', widget: 'datetime', date_format: true, time_format: false, format: 'YYYY-MM-DD', picker_utc: false }
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
