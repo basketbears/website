@@ -6,6 +6,17 @@ title: Kontakt
 
 #### Schreibe uns eine E-Mail an [info@basket bears.de](mailto:info@basketbears.de)
 
+<div class="box">
+  {% include contact-form.html %}
+</div>
+</div>
+
+<div class="column is-1"></div>
+
+<div class="column is-5" markdown="1">
+
+#### Weitere Kontakte
+
 <div class="block">
 {% include person-card.html
   title="1. Vorsitzender"
@@ -31,15 +42,6 @@ title: Kontakt
   name="Robin Croonenbroeck"
   email="robin.croenenbroeck@basketbears.de"
 %}
-</div>
-</div>
-
-<div class="column is-6" markdown="1">
-
-#### ...oder nutze unser Kontaktformular:
-
-<div class="box">
-  {% include contact-form.html %}
 </div>
 
 </div>

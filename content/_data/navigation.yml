@@ -1,8 +1,5 @@
 - name: Jugend
   link: /jugend/
-  dropdown:
-    - name: Jurobacup
-      link: /jugend/jurobacup/
 - name: 1. Mannschaft
   link: /erstemannschaft/
   dropdown:
@@ -12,11 +9,6 @@
       link: /erstemannschaft/landesliga/
 - name: Verein
   link: /verein/
-  dropdown:
-    - name: Gründung
-      link: /verein/gruendung/
-    - name: Spenden
-      link: /verein/spenden/
 - name: News
   link: /news/
 - name: Kontakt
