@@ -33,14 +33,7 @@ collections:
           - *body-field
       - label: "Jugend"
         name: jugend
-        file: "content/jugend/index.md"
-        fields:
-          - *layout-field
-          - *title-field
-          - *body-field
-      - label: "Jugend > Jorobacup"
-        name: jurobacup
-        file: "content/jugend/jurobacup.md"
+        file: "content/jugend.md"
         fields:
           - *layout-field
           - *title-field
@@ -68,35 +61,14 @@ collections:
           - *body-field
       - label: "Verein"
         name: verein
-        file: "content/verein/index.md"
-        fields:
-          - *layout-field
-          - *title-field
-          - *body-field
-      - label: "Verein > Gründung"
-        name: verein-gruendung
-        file: "content/verein/gruendung.md"
-        fields:
-          - *layout-field
-          - *title-field
-          - *body-field
-      - label: "Verein > Spenden"
-        name: verein-spenden
-        file: "content/verein/spenden.md"
+        file: "content/verein.md"
         fields:
           - *layout-field
           - *title-field
           - *body-field
       - label: "Kontak"
         name: kontakt
-        file: "content/kontakt/index.md"
-        fields:
-          - *layout-field
-          - *title-field
-          - *body-field
-      - label: "Kontak > Anfahrt"
-        name: kontakt-anfahrt
-        file: "content/kontakt/anfahrt.md"
+        file: "content/kontakt.md"
         fields:
           - *layout-field
           - *title-field

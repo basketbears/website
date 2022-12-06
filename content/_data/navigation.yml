@@ -13,8 +13,5 @@
   link: /news/
 - name: Kontakt
   link: /kontakt/
-  dropdown:
-    - name: Anfahrt
-      link: /kontakt/anfahrt/
 - name: Partner
   link: /partner/

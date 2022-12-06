@@ -15,6 +15,13 @@ title: Kontakt
 
 <div class="column is-5" markdown="1">
 
+#### Adresse
+Bischöfliche Maria-Montessori-Gesamtschule,  
+Minkweg 28 
+47803 Krefeld
+
+Anfahrt über den Lehrerparkplatz am Winnertzweg 
+
 #### Weitere Kontakte
 
 <div class="block">
