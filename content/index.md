@@ -27,7 +27,7 @@ Du möchtest Spiel und Spaß in einem Team, aus behinderten und nichtbehinderten
 
 **Dann nimm Kontakt mit uns auf!**
 - Per Mail an [info@basketbears.de](mailto:info@basketbears.de)  
-- oder nutze unser [Kontaktformular](/kontakt/kontakt)
+- oder nutze unser [Kontaktformular](/kontakt)
 
 </div>
 <div class="column is-1"></div>
