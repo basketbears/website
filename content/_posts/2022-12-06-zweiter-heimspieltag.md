@@ -22,9 +22,9 @@ players:
   - Sven Kühne (#26)
 coach: Sven Kaiser
 ---
+
+
 Es war wieder soweit. Was fast schon nichts mehr besonderes für unsere Bären war, es war schließlich bereits der vierte Landesligaspieltag. u. Und langsam spielte sich auch die Routine ein.
-
-
 
 Da bereits einen Tag vorher, am gleichen Ort wie unsere Heimspielhalle, an der Bischöflichen Maria-Montessori-Gesamtschule der jährliche „Tag der offenen Tür“ stattfand, ließen es sich einige Bären nicht nehmen, potenziellen Nachwuchsbären unseren Sport und den Verein näher zu bringen. Die letzten Rollstühle aus der hintersten Ecke mussten herausgekramt werden, um nur annähernd allen interessierten kleinen und großen Gästen gerecht zu werden. Die Zeit wurde ebenfalls genutzt, um schon die ersten Vorkehrungen für den morgigen Spieltag zu treffen. So war es den Bären erlaubt, am Sonntag eine Stunde später und somit ausgeruhter zum Tip-Off zu erscheinen.
 
@@ -39,8 +39,6 @@ Die Halbzeit wurde genutzt, um Alle nochmal wachzurütteln. Mit einigen Umstellu
 Einem weiteren Punktevorsprung von 11 Punkten im dritten Viertel folgte ein punktetechnisch sehr ausgeglichener letzter Spielabschnitt. Zum Ende der 40 gespielten Minuten durften die Bären einen weiteren Sieg mit starken 42:21 Punkten für sich verbuchen. Positiv zu erwähnen war nicht nur, dass sehr viel ausgewechselt wurde und unser gesamtes Team zum Einsatz kommen konnte, sondern auch, dass der Rhythmus hochgehalten und sich sehr viele Spieler auf der Scorerliste verewigen konnten. Eine tolle Leistung, nicht nur für unser Team, sondern auch für das ganz persönliche Erfolgserlebnis.
 
 Das zweite Spiel, in dem sich unsere heutigen Gegner Bertlich und Duisburg gegenüberstehen sollten, stand an. Was da passierte, sollte eigentlich Warnung genug gewesen sein. Die Bertlicher Bulldogs, die ja bereits schon ein Spiel gegen uns in den Knochen hatten, konnten gegen die Duisburger nicht mehr viel ausrichten. Wo man im ersten Viertel noch sagen kann, 9 Punkte hinten liegen, das können die Bertlicher noch einholen. Sah es nach 20 gespielten Minuten mit 37:4 schon recht aussichtslos aus. Letztendlich war in diesem Spiel nichts für unsere Gäste aus Herten zu holen. Ersatzgeschwächt, aber dennoch sichtlich enttäuscht, ging das Spiel am Ende sogar noch etwas deutlicher aus. Wir bedanken uns bei unseren Bertlicher Kolleginnen und Kollegen für unsere bereits abgeschlossenen Spiele. Auf dem Spielfeld vielleicht mal hitzig, ist es nach dem Spiel ein offener Austausch zwischen tollen Menschen.
-
-
 
 Zwischenzeitlich konnten wir uns das Spiel von der Seite ansehen und bei Kuchen und Kaffee wieder Energie tanken. Jetzt hieß es, Kräfte bündeln und sich im Warm-Up und danach im eingeschworenen Bärenkreis einzustimmen, auf das letzte Spiel des Tages: Gegen die BSG Duisburg-Buchholz. Dies sollte das letzte Spiel einer Serie von Spieltagen sein, bevor wir bis zum 03. Dezember eine wohlverdiente Verschnaufpause vom Liga-Alltag genießen dürfen.
 
