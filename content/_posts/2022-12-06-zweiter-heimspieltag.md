@@ -22,8 +22,6 @@ players:
   - Sven Kühne (#26)
 coach: Sven Kaiser
 ---
-\#﻿# 
-
 Es war wieder soweit. Was fast schon nichts mehr besonderes für unsere Bären war, es war schließlich bereits der vierte Landesligaspieltag. u. Und langsam spielte sich auch die Routine ein.
 
 Da bereits einen Tag vorher, am gleichen Ort wie unsere Heimspielhalle, an der Bischöflichen Maria-Montessori-Gesamtschule der jährliche „Tag der offenen Tür“ stattfand, ließen es sich einige Bären nicht nehmen, potenziellen Nachwuchsbären unseren Sport und den Verein näher zu bringen. Die letzten Rollstühle aus der hintersten Ecke mussten herausgekramt werden, um nur annähernd allen interessierten kleinen und großen Gästen gerecht zu werden. Die Zeit wurde ebenfalls genutzt, um schon die ersten Vorkehrungen für den morgigen Spieltag zu treffen. So war es den Bären erlaubt, am Sonntag eine Stunde später und somit ausgeruhter zum Tip-Off zu erscheinen.
