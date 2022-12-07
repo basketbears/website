@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-10-23
+date: 2022-10-25
 title: Mit Pauken und Trompeten
 summary: "Basket Bears Krefeld gewinnen ersten Heimspieltag in der Landesliga! "
 author: Sven Kaiser und Jill Kaiser-Föhles
