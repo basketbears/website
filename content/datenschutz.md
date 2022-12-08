@@ -69,8 +69,6 @@ Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzli
 
 GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors)
 
-
-
 ## **Cloudflare**
 
 Wir nutzen das Content Delivery Network (CDN) von Cloudflare Germany GmbH, Rosental 7, c/o Mindspace, 80331 München Deutschland (Cloudflare), um die Sicherheit und die Auslieferungsgeschwindigkeit unserer Website zu erhöhen. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit. f DSGVO). Ein CDN ist ein Netzwerk aus \[weltweit] verteilten Servern, das in der Lage ist, optimiert Inhalte an den Websitenutzer auszuliefern. Für diesen Zweck können personenbezogene Daten in Server-Logfiles von Cloudflare verarbeitet werden. Bitte vergleichen Sie die Ausführungen unter „Hosting“.
@@ -86,7 +84,5 @@ Ihre personenbezogenen Daten werden von Cloudflare so lange gespeichert, wie es 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Cloudflare finden Sie unter: [Cloudflare DPA](https://opr.vc/docs/cdn/cloudflare/https%3A%2F%2Fwww.cloudflare.com%2Fresources%2Fassets%2Fslt3lc6tev37%2F1M1j5uuFDuLTYiZJJDPBag%2F770322411bcac7f8bcc350e31b1e8319%2FCustomer_DPA_v.3_1_-_de-de_19_Oct_2020.pdf)
 
 Cloudflare hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Cloudflare personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: <https://www.cloudflare.com/cloudflare_customer_SCCs-German.pdf>
-
-
 
 \-﻿---- TODO: Google Maps und Google Forms klären. ggf mit https://opr.vc/docs/kontakt/kontaktformular/
