@@ -11,7 +11,7 @@
     {% endif %}
     <div class="card-content" style="padding: 1rem">
         <div class="content">
-            <span class="small-card-date">{{ post.date | date: "%-d. %B %Y" }}</span>
+            <span class="small-card-date">{% include local-date.html date=post.date %}</span>
             {% if post.image %}
             <span class="title is-4">{{ post.title}}</span>
             {% endif %}

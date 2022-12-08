@@ -22,7 +22,7 @@
         </div>
     </div>
     <footer class="card-footer">
-        <p class="card-footer-item">{{ post.date | date: "%-d. %B %Y" }}</p>
+        <p class="card-footer-item">{% include local-date.html date=post.date %}</p>
     </footer>
   </a>
 </div>

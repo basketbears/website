@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="publish-info">
-{{ page.date | date: "%-d. %B %Y" }}<br>
+{% include local-date.html date=page.date %}<br>
 {{ page.author }}<br>
 {% if page.image_source %}
 Bild: {{ page.image_source }}<br>
