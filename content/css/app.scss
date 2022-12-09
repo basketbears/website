@@ -18,12 +18,16 @@ $primary: #1c4586;
   margin-left: 1rem;
 }
 
-.publish-info {
-  margin-bottom: 2rem;
+.post-date {
+  margin-bottom: 1rem;
   margin-top: -2rem;
   height: 1rem;
   display: flex;
   justify-content: end;
+  font-size: 0.875em;
+}
+
+.post-author {
   font-size: 0.875em;
 }
 

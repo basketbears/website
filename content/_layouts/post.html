@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<div class="publish-info">
-{% include local-date.html date=page.date %}<br>
-{{ page.author }}<br>
-{% if page.image_source %}
-Bild: {{ page.image_source }}<br>
-{% endif %}
+<div class="post-date">
+{% include local-date.html date=page.date %}
 </div>
 
 <div class="content">
@@ -17,6 +13,13 @@ Bild: {{ page.image_source }}<br>
     {% endif %}
 
     {{ content }}
+</div>
+
+<div class="post-author">
+  Text: {{ page.author }}<br>
+  {% if page.image_source %}
+  Bild: {{ page.image_source }}<br>
+  {% endif %}
 </div>
 
 <div class="tags">
