@@ -20,7 +20,7 @@ Minkweg 28
 
 Anfahrt über den Lehrerparkplatz am Winnertzweg
 
-{% include iframe-card.html source="www.google.com/maps" height=550 style="margin-bottom: 1.5rem" src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1222.348415811071!2d6.566084309736889!3d51.35671255779808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8a5347dd1eb77%3A0x17eb52220250277!2sWinnertzweg%2019%2C%2047803%20Krefeld!5e1!3m2!1sde!2sde!4v1670334324411!5m2!1sde!2sde' %}
+{% include iframe-card.html source="www.google.com/maps" height=660 style="margin-bottom: 1.5rem" src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1222.348415811071!2d6.566084309736889!3d51.35671255779808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8a5347dd1eb77%3A0x17eb52220250277!2sWinnertzweg%2019%2C%2047803%20Krefeld!5e1!3m2!1sde!2sde!4v1670334324411!5m2!1sde!2sde' %}
 
 </div>
 <div class="column is-12" markdown="1" style="margin-bottom: -1rem">
