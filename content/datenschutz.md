@@ -110,7 +110,7 @@ Irland
 
 Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig.
 
-Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln. Weitere Informationen finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) unter dem Punkt ["Betroffenenrechte"](#betroffenenrechte).
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln. Weitere Informationen finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) und unter dem Punkt ["Betroffenenrechte"](#betroffenenrechte).
 
 Ihre Daten werden nach Abschluss der Bearbeitung gelöscht.
 
@@ -126,6 +126,6 @@ Zum Zeitpunkt der Einbindung haben die eingebundenen Websiten keinerlei zusätzl
 Wir haben die extern eingebundenen Inhalte zum Zeitpunkt der Einbindung nach bestem Wissen auf Rechtsverletzungen geprüft.
 Sollten wir erfahren, dass die eingebundenen Inhalte gegen geltendes Recht verstoßen, werden wir die entsprechenden Einbindung entfernen.
 
-Weitere Informationen erhalten sie in den Datenschutzerklärungen der jeweiligen Betreiber der eingebundenen Websiten:
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln. Weitere Informationen finden Sie den Datenschutzerklärungen der jeweiligen Betreiber der eingebundenen Websiten und unter dem Punkt ["Betroffenenrechte"](#betroffenenrechte):
 - [Datenschutzerklärung von basketball-bund.net](https://www.basketball-bund.de/datenschutz/#cmpnoscreen)
 - [Datenschutzerklärung von google.com](https://policies.google.com/privacy)
