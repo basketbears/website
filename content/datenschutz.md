@@ -28,8 +28,6 @@ Ihre E-Mail-Adresse
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
 
-
-
 ## **Betroffenenrechte**
 
 Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
@@ -37,8 +35,6 @@ Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtig
 Bitte richten Sie Ihren Widerspruch (oder Widerruf) formlos an den oben genannten Datenschutzbeauftragten.
 
 Darüber hinaus haben Sie das Recht auf Datenübertragbarkeit. Sie haben weiter das Recht, sich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden finden Sie unter: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>.
-
-
 
 ## **Hosting**
 
@@ -84,5 +80,40 @@ Ihre personenbezogenen Daten werden von Cloudflare so lange gespeichert, wie es 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Cloudflare finden Sie unter: [Cloudflare DPA](https://opr.vc/docs/cdn/cloudflare/https%3A%2F%2Fwww.cloudflare.com%2Fresources%2Fassets%2Fslt3lc6tev37%2F1M1j5uuFDuLTYiZJJDPBag%2F770322411bcac7f8bcc350e31b1e8319%2FCustomer_DPA_v.3_1_-_de-de_19_Oct_2020.pdf)
 
 Cloudflare hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Cloudflare personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: <https://www.cloudflare.com/cloudflare_customer_SCCs-German.pdf>
+
+
+
+## **Kontaktformular**
+
+Wir stellen Ihnen ein Kontaktformular zur Verfügung, mit dem wir folgende personenbezogene Daten erheben:
+
+* Name*
+* E-Mail-Adresse*
+* Telefonnummer
+
+Pflichtangaben sind mit einem * gekennzeichnet.
+
+Zusätzlich erheben wir:
+
+* Zeitpunkt der Übermittlung
+* I﻿P-Adresse
+
+Die Daten werden ausschließlich zum Zweck der Übermittlung von Anfragen und deren Beantwortung gespeichert. Die Pflichtangaben dienen der Zuordnung und der Beantwortung Ihres Anliegen. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit f DSGVO).
+
+W﻿ir setzen zum Erhalt der Formulardaten Google Forms ein, ein Produkt von folgendem Anbieter:
+
+Google Ireland Limited\
+nach irischem Recht eingetragen und betrieben\
+(Registernummer: 368047/Umsatzsteuer-ID-Nr.: IE6388047V)\
+\
+Gordon House, Barrow Street\
+Dublin 4\
+Irland
+
+Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig.
+
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln. Weitere Informationen finden Sie unter dem Punkt „Betroffenenrechte“.
+
+Ihre Daten werden nach \[Abschluss der Bearbeitung / einem Monat / zum Ende des Jahres] gelöscht.
 
 \-﻿---- TODO: Google Maps und Google Forms klären. ggf mit https://opr.vc/docs/kontakt/kontaktformular/
