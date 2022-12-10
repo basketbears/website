@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wir sind dein Rollstuhl-Basketball-Verein in Krefeld
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://basketbears.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.basketbears.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -32,7 +32,7 @@ theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
-domain: basketbears.de
+domain: www.basketbears.de
 lang: de
 include: [.github]
 
