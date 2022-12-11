@@ -11,14 +11,14 @@ IG Basket Bears 05 e.V\
 Unter den Erlen 7\
 51145 Köln
 
-E-Mail: svenkaiser1389@gmail.com
+E-Mail: sven.kaiser@basketbears.de
 
 **Unseren Datenschutzbeauftragten erreichen sie unter:**\
 Sven Kaiser\
 Unter den Erlen 7\
 51145 Köln
 
-E-Mail: svenkaiser1389@gmail.com
+E-Mail: datenschutz@basketbears.de
 
 Sollten Sie per E-Mail (oder über Kontaktformular) mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten.
 
