@@ -37,8 +37,12 @@ Ihre Spenden unterstützen uns bei unserer ehrenamtlichen Arbeit im Verein und s
 
 Wir freuen uns über jede Unterstützung und Resonanz.
 
-**Spenden von Privatpersonen sind in jeder Höhe gerne gesehen. Auch eine Fördermitgliedschaft für Privatpersonen  und Firmen ist möglich.**
+**Spenden von Privatpersonen sind in jeder Höhe gerne gesehen. Auch eine Fördermitgliedschaft für Privatpersonen und Firmen ist möglich.**
 
 Natürlich stellen wir auch Spendenquittungen aus!
+
+<a style="display: flex; justify-content: center; margin-top: 2rem" href="https://www.paypal.com/donate/?hosted_button_id=8ZQKLEG5JS5EY" target="_blank">
+  <img src="/img/button-spenden-paypal.webp" width="200px" />
+</a>
 
 </div>
