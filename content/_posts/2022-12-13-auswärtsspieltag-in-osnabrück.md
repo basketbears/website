@@ -34,7 +34,7 @@ Auch die Gastgeber aus Osnabrück mussten heute augenscheinlich auf den ein oder
 
 Unsere nächsten Spiele führen uns am 17. Dezember nach Warendorf. Hier treffen wir neben dem Gastgeber BBC Münsterland auf einen weiteren Verein vom Niederrhein: Die Art Giants Düsseldorf. Wir bedanken uns bei allen, die für uns mitgereist sind, für euren tollen Support und beim RBC Osnabrück für einen spannenden Spieltag. Wir wünschen allen eine schöne Vorweihnachtszeit und freuen uns auf die nächsten Spiele.
 
-<u> Im Kader der Basket BEars Krefeld waren folgende Spieler vertreten:</u>
+<u> Im Kader der Basket Bears Krefeld waren folgende Spieler vertreten:</u>
 
 {% include kader.html %}
 
