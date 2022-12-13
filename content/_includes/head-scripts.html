@@ -1,0 +1,9 @@
+<script>
+  window.toggleActive = function(selector) {
+    document.querySelectorAll(selector).forEach(el => el.classList.toggle('is-active'))
+  }
+  window.toggleModal = function(id) {
+    toggleActive(`#${id}`);
+    // TODO: toggle .is-clipped on <html>
+  }
+</script>

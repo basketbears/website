@@ -1,0 +1,19 @@
+{% assign id=include.link | slugify %}
+<div markdown="0">
+  <a onclick="toggleModal('{{id}}')" id="{{id}}" x-on:click="open = true" title="View large image">
+      <figure class="image {{ include.ratio | default: is-16by9 }}">
+          <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
+      </figure>
+  </a>
+  <div class="modal" id="{{id}}">
+      <div class="modal-background" onclick="toggleModal('{{id}}')"></div>
+      <div class="modal-content">
+          {% if include.large_link %}
+              <img src="{{ include.large_link | absolute_url }}" alt="{{ include.alt }}">
+          {% else %}
+              <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
+          {% endif %}
+      </div>
+      <button class="modal-close is-large" aria-label="close" onclick="toggleModal('{{id}}')"></button>
+  </div>
+</div>
