@@ -4,8 +4,8 @@ date: 2022-12-13
 title: Auswärtsspieltag in Osnabrück
 summary: Basket Bears treffen auf die Tabellenspitze
 author: Sven Kaiser
-hero_image: /img/news/pxl_20221203_124646689.jpg
-image: /img/news/pxl_20221203_124646689.jpg
+hero_image: /img/news/2022-12-03-auswaertsspieltag-in-osnabrueck.webp
+image: /img/news/2022-12-03-auswaertsspieltag-in-osnabrueck_preview.webp
 image_source: Heiko Mathes
 players:
   - Jana Bartlick (#4)
