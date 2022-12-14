@@ -3,7 +3,7 @@ layout: post
 date: 2022-12-14
 title: Headreset for Basket Bears
 summary: Die Basket Bears Krefeld haben einen neuen Motivationskick bekommen
-author: Sven Kaiser
+author: "Sven Kaiser "
 hero_image: /img/news/headreset.jpg
 image: /img/news/headreset.jpg
 ---
