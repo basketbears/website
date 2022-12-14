@@ -1,0 +1,161 @@
+- displayName: Richard S.
+  number: 3
+  image: /img/players/richard.webp"
+  firstName: Richard
+  lastName: Smets
+  isDisabled: true
+  basePoints: 1
+  bonuses:
+  - beginner
+  totalPoints: 0
+
+- displayName: Jana B.
+  number: 4
+  image: /img/players/jana.webp"
+  firstName: Jana
+  lastName: Bartlick
+  isDisabled: true
+  basePoints: 3
+  bonuses:
+  - woman
+  - beginner
+  totalPoints: 1
+
+- displayName: Johannes v. H.
+  number: 6
+  image: /img/players/johannes.webp"
+  firstName: Johannes
+  lastName: von Heereman
+  isDisabled: true
+  basePoints: 4
+  bonuses: []
+  totalPoints: 4
+
+- displayName: Sven K.
+  number: 7
+  image: /img/players/svenkaiser.webp"
+  firstName: Sven
+  lastName: Kaiser
+  isDisabled: true
+  basePoints: 2.5
+  bonuses:
+  - beginner
+  totalPoints: 1.5
+
+- displayName: Jill K.
+  number: 8
+  image: /img/players/jill.webp"
+  firstName: Jill
+  lastName: Kaiser-Föhles
+  isDisabled: true
+  basePoints: 3
+  bonuses:
+  - woman
+  totalPoints: 1.5
+
+- displayName: Linda H.
+  number: 9
+  image: /img/players/linda.webp"
+  firstName: Linda
+  lastName: Hövel
+  isDisabled: true
+  basePoints: 3
+  bonuses:
+  - woman
+  - beginner
+  totalPoints: 1
+
+- displayName: Anna B.
+  number: 10
+  image: /img/players/anna.webp"
+  firstName: Anna
+  lastName: Bartlick
+  isDisabled: false
+  basePoints: 4.5
+  bonuses:
+  - woman
+  totalPoints: 3
+
+- displayName: Philippe v. P.
+  number: 11
+  image: /img/players/philippe.webp"
+  firstName: Philippe
+  lastName: von Parthier
+  isDisabled: false
+  basePoints: 4.5
+  bonuses: []
+  totalPoints: 4.5
+
+- displayName: Yannik P.
+  number: 12
+  image: /img/players/yannik.webp"
+  firstName: Yannik
+  lastName: Parthier
+  isDisabled: true
+  basePoints: 2.5
+  bonuses:
+  - beginner
+  totalPoints: 1.5
+
+- displayName: Jakobus v. L.
+  number: 15
+  image: /img/players/jakobus.webp"
+  firstName: Jakobus
+  lastName: von Lengerke
+  isDisabled: false
+  basePoints: 4.5
+  bonuses: []
+  totalPoints: 4.5
+
+- displayName: Robin C.
+  number: 19
+  image: /img/players/robin.webp"
+  firstName: Robin
+  lastName: Croonenbroeck
+  isDisabled: true
+  basePoints: 2
+  bonuses:
+  - beginner
+  totalPoints: 1
+
+- displayName: Heiko M.
+  number: 21
+  image: /img/players/heiko.webp"
+  firstName: Heiko
+  lastName: Mathes
+  isDisabled: false
+  basePoints: 4.5
+  bonuses: []
+  totalPoints: 4.5
+
+- displayName: André K.
+  number: 22
+  image: /img/players/andre.webp"
+  firstName: André
+  lastName: Kostka
+  isDisabled: false
+  basePoints: 4.5
+  bonuses: []
+  totalPoints: 4.5
+
+- displayName: Mike L.
+  number: 25
+  image: /img/players/mike.webp"
+  firstName: Mike
+  lastName: Lausberg
+  isDisabled: true
+  basePoints: 2.5
+  bonuses:
+  - beginner
+  totalPoints: 1.5
+
+- displayName: Sven K.
+  number: 26
+  image: /img/players/svenkuehne.webp"
+  firstName: Sven
+  lastName: Kühne
+  isDisabled: true
+  basePoints: 3
+  bonuses:
+  - beginner
+  totalPoints: 2

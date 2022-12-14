@@ -73,7 +73,13 @@ $primary: #1c4586;
   }
 }
 
+// This is important, so that the images in news-preview-cards
+// always fill the while card
 .card-image img {
   width: 100%;
   object-fit: cover;
+}
+
+.image-modal img {
+  object-fit: contain;
 }

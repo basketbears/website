@@ -8,10 +8,20 @@
   <div class="modal" id="{{id}}" onclick="toggleModal('{{id}}')">
       <div class="modal-background"></div>
       <div class="modal-card image-modal">
+          {% if include.head %}
+            <header class="modal-card-head">
+              {{include.head}}
+            </header>
+          {% endif %}
           {% if include.large_link %}
               <img src="{{ include.large_link | absolute_url }}" alt="{{ include.alt }}">
           {% else %}
               <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
+          {% endif %}
+          {% if include.foot %}
+            <footer class="modal-card-foot">
+              {{include.foot}}
+            </footer>
           {% endif %}
       </div>
       <button class="modal-close is-large" aria-label="close" onclick="toggleModal('{{id}}')"></button>
