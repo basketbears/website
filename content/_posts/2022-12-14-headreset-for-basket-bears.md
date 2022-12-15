@@ -4,8 +4,8 @@ date: 2022-12-14
 title: Headreset for Basket Bears
 summary: Die Basket Bears Krefeld haben einen neuen Motivationskick bekommen
 author: "Sven Kaiser "
-hero_image: /img/news/headreset.jpeg
-image: /img/news/headreset2.jpeg
+hero_image: /img/news/headreset-header.jpeg
+image: /img/news/headreset-preview.jpg
 ---
 Beim letzten Montagstraining haben wir Besuch von zwei Powerfrauen bekommen: Moderatorin Silvia Schmidt und Kabarettistin Ingrid Kühne schauten in Krefeld vorbei. Zwei Frauen, die nicht nur befreundet sind, sondern auch mit unglaublich viel Charme und Engagement ganz ähnliche Ziele verfolgen. Mit viel Know-How, Talent und Witz, können sie die Fesseln des Alltags lösen und zu neuer Motivation führen - ob im Coaching, oder auf der Bühne.
 
