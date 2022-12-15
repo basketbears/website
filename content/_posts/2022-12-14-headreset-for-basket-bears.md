@@ -20,4 +20,6 @@ Ihr wollt mehr über die beiden und ihre Leidenschaft erfahren? Ihr braucht mal 
 Und wer lachen will oder Termine für Ingrid Kühne sucht wird hier fündig:\
 [https://www.ingrid-kuehne.de](https://www.ingrid-kuehne.de/)
 
+
+
 ![](/img/news/737336_d73ccdd1756d49be9704b1abcfc97069~mv2.jpg)
