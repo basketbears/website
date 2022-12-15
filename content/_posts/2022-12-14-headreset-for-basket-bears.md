@@ -18,4 +18,4 @@ Mit den neuen Shirts - die nicht nur funktionell sind, sondern dank des tollen L
 Ihr wollt mehr über die beiden und ihre Leidenschaft erfahren? Ihr braucht mal einen "headreset" oder eine Moderation, oder einfach mal Input... dann klickt auf den folgenden Link und lasst euch inspirieren:\
 [https://www.headreset.de](https://www.headreset.de/)\
 Und wer lachen will oder Termine für Ingrid Kühne sucht wird hier fündig:\
-[https://www.ingrid-kuehne.de](https://www.ingrid-kuehne.de/)
+[https://www.ingrid-kuehne.de](https://www.ingrid-kuehne.de/) s
