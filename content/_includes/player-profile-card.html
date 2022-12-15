@@ -1,20 +1,15 @@
-{% assign gallery=site.data.player.[include.player][0] %}
-<div class="columns is-multiline" style="display: flex">
-    <div class="column is-12" style="flex: none; width: 100%">
-        <p class="title is-3 has-text-centered">{{ gallery.title }}</p>
-    </div>
-    {% for image in gallery.images %}
-    <div class="column is-2-widescreen is-3-desktop is-4-tablet is-6-mobile">
-        <div class="card">
-            {% include player-profile-modal.html ratio=image.ratio link=image.link alt=image.alt large_link=image.large_link foot="asd" %}
-            {% if image.description %}
-            <div class="card-content">
-                <div class="content">
-                    {{ image.description | markdownify }}
-                </div>
-            </div>
-            {% endif %}
+{% assign player=site.data.players[include.player] %}
+{% assign modalId=player.cardImage | slugify %}
+<div class="card" markdown="0">
+    <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}" title="View large image">
+      <figure class="image {{ include.ratio | default: is-16by9 }}">
+          <img src="{{ player.cardImage | absolute_url }}" alt="{{ include.alt }}">
+      </figure>
+    </a>
+    {% include player-profile-modal.html player=include.player %}
+    <div class="card-content">
+        <div class="content">
+            {{player.firstName}} {{player.lastName}}, {{player.number}}
         </div>
     </div>
-    {% endfor %}
 </div>

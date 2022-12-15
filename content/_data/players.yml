@@ -1,6 +1,7 @@
-- displayName: Richard S.
+"3":
   number: 3
-  image: /img/players/richard.webp"
+  displayName: Richard S.
+  cardImage: /img/players/richard.webp
   firstName: Richard
   lastName: Smets
   isDisabled: true
@@ -9,9 +10,10 @@
   - beginner
   totalPoints: 0
 
-- displayName: Jana B.
+"4":
   number: 4
-  image: /img/players/jana.webp"
+  displayName: Jana B.
+  cardImage: /img/players/jana.webp
   firstName: Jana
   lastName: Bartlick
   isDisabled: true
@@ -21,9 +23,10 @@
   - beginner
   totalPoints: 1
 
-- displayName: Johannes v. H.
+"6":
   number: 6
-  image: /img/players/johannes.webp"
+  displayName: Johannes v. H.
+  cardImage: /img/players/johannes.webp
   firstName: Johannes
   lastName: von Heereman
   isDisabled: true
@@ -31,9 +34,10 @@
   bonuses: []
   totalPoints: 4
 
-- displayName: Sven K.
+"7":
   number: 7
-  image: /img/players/svenkaiser.webp"
+  displayName: Sven K.
+  cardImage: /img/players/svenkaiser.webp
   firstName: Sven
   lastName: Kaiser
   isDisabled: true
@@ -42,9 +46,10 @@
   - beginner
   totalPoints: 1.5
 
-- displayName: Jill K.
+"8":
   number: 8
-  image: /img/players/jill.webp"
+  displayName: Jill K.
+  cardImage: /img/players/jill.webp
   firstName: Jill
   lastName: Kaiser-Föhles
   isDisabled: true
@@ -53,9 +58,10 @@
   - woman
   totalPoints: 1.5
 
-- displayName: Linda H.
+"9":
   number: 9
-  image: /img/players/linda.webp"
+  displayName: Linda H.
+  cardImage: /img/players/linda.webp
   firstName: Linda
   lastName: Hövel
   isDisabled: true
@@ -65,9 +71,10 @@
   - beginner
   totalPoints: 1
 
-- displayName: Anna B.
+"10":
   number: 10
-  image: /img/players/anna.webp"
+  displayName: Anna B.
+  cardImage: /img/players/anna.webp
   firstName: Anna
   lastName: Bartlick
   isDisabled: false
@@ -76,9 +83,10 @@
   - woman
   totalPoints: 3
 
-- displayName: Philippe v. P.
+"11":
   number: 11
-  image: /img/players/philippe.webp"
+  displayName: Philippe v. P.
+  cardImage: /img/players/philippe.webp
   firstName: Philippe
   lastName: von Parthier
   isDisabled: false
@@ -86,9 +94,10 @@
   bonuses: []
   totalPoints: 4.5
 
-- displayName: Yannik P.
+"12":
   number: 12
-  image: /img/players/yannik.webp"
+  displayName: Yannik P.
+  cardImage: /img/players/yannik.webp
   firstName: Yannik
   lastName: Parthier
   isDisabled: true
@@ -97,9 +106,10 @@
   - beginner
   totalPoints: 1.5
 
-- displayName: Jakobus v. L.
+"15":
   number: 15
-  image: /img/players/jakobus.webp"
+  displayName: Jakobus v. L.
+  cardImage: /img/players/jakobus.webp
   firstName: Jakobus
   lastName: von Lengerke
   isDisabled: false
@@ -107,9 +117,10 @@
   bonuses: []
   totalPoints: 4.5
 
-- displayName: Robin C.
+"19":
   number: 19
-  image: /img/players/robin.webp"
+  displayName: Robin C.
+  cardImage: /img/players/robin.webp
   firstName: Robin
   lastName: Croonenbroeck
   isDisabled: true
@@ -118,9 +129,10 @@
   - beginner
   totalPoints: 1
 
-- displayName: Heiko M.
+"21":
   number: 21
-  image: /img/players/heiko.webp"
+  displayName: Heiko M.
+  cardImage: /img/players/heiko.webp
   firstName: Heiko
   lastName: Mathes
   isDisabled: false
@@ -128,9 +140,10 @@
   bonuses: []
   totalPoints: 4.5
 
-- displayName: André K.
+"22":
   number: 22
-  image: /img/players/andre.webp"
+  displayName: André K.
+  cardImage: /img/players/andre.webp
   firstName: André
   lastName: Kostka
   isDisabled: false
@@ -138,9 +151,10 @@
   bonuses: []
   totalPoints: 4.5
 
-- displayName: Mike L.
+"25":
   number: 25
-  image: /img/players/mike.webp"
+  displayName: Mike L.
+  cardImage: /img/players/mike.webp
   firstName: Mike
   lastName: Lausberg
   isDisabled: true
@@ -149,9 +163,10 @@
   - beginner
   totalPoints: 1.5
 
-- displayName: Sven K.
+"26":
   number: 26
-  image: /img/players/svenkuehne.webp"
+  displayName: Sven K.
+  cardImage: /img/players/svenkuehne.webp
   firstName: Sven
   lastName: Kühne
   isDisabled: true

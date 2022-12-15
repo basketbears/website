@@ -8,7 +8,10 @@ hero_darken: false
     <p class="title is-3 has-text-centered">Unsere erste Mannschaft stellt sich vor</p>
 </div>
 
-{% assign ersteMannschaft=[3, 4, 6, 8, 10, 11, 12, 15, 19, 25, 26] %}
+{{ site.data.players[3] }}
+{% assign ersteMannschaft = "3,4,6,8,10,11,12,15,19,25,26" | split: ',' %}
 {% for playerNumber in ersteMannschaft %}
-  {% include player-profile-card.html player=playerNumber %}
+  <div class="column is-2-widescreen is-3-desktop is-4-tablet is-6-mobile">
+    {% include player-profile-card.html player=playerNumber %}
+  </div>
 {% endfor %}

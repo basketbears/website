@@ -1,6 +1,6 @@
 {% assign id=include.link | slugify %}
 <div markdown="0">
-  <a onclick="toggleModal('{{id}}')" id="{{id}}" x-on:click="open = true" title="View large image">
+  <a onclick="toggleModal('{{id}}')" id="{{id}}" title="View large image">
       <figure class="image {{ include.ratio | default: is-16by9 }}">
           <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
       </figure>
