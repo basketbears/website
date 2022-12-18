@@ -1,12 +1,14 @@
 {% assign player=site.data.players[include.player] %}
 {% assign modalId=player.cardImage | slugify %}
-<div class="modal" id="{{modalId}}" onclick="toggleModal('{{modalId}}')">
+<div class="modal" id="{{modalId}}" onclick="toggleModal('{{modalId}}')" markdown="0">
     <div class="modal-background"></div>
-    <div class="modal-card image-modal">
+    <div class="modal-card player-modal">
+      <section class="modal-card-body" style="background-color: red">
         <img src="{{ player.cardImage | absolute_url }}" alt="{{ include.alt }}">
-        <footer class="modal-card-foot">
-          {{player.firstName}} {{player.lastName}}, {{player.number}}
-        </footer>
+      </section>
+      <footer class="modal-card-foot">
+        {{player.firstName}} {{player.lastName}}, {{player.number}}
+      </footer>
     </div>
     <button class="modal-close is-large" aria-label="close"></button>
 </div>

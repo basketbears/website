@@ -2,14 +2,15 @@
 {% assign modalId=player.cardImage | slugify %}
 <div class="card" markdown="0">
     <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}" title="View large image">
-      <figure class="image {{ include.ratio | default: is-16by9 }}">
-          <img src="{{ player.cardImage | absolute_url }}" alt="{{ include.alt }}">
-      </figure>
+      <img src="{{ player.cardImage | absolute_url }}" alt="{{ include.alt }}">
     </a>
     {% include player-profile-modal.html player=include.player %}
-    <div class="card-content">
-        <div class="content">
-            {{player.firstName}} {{player.lastName}}, {{player.number}}
-        </div>
-    </div>
+    <footer class="card-footer">
+      <span class="card-footer-item" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;">
+        {{player.firstName}} {{player.lastName}}
+      </span>
+      <span class="card-footer-item" style="flex-grow: 0">
+        #{{player.number}}
+      </span>
+    </footer>
 </div>
