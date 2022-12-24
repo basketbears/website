@@ -4,6 +4,6 @@
   }
   window.toggleModal = function(id) {
     toggleActive(`#${id}`);
-    // TODO: toggle .is-clipped on <html>
+    document.documentElement.classList.toggle('is-clipped')
   }
 </script>

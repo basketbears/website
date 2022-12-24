@@ -1,16 +1,16 @@
 {% assign player=site.data.players[include.player] %}
 {% assign modalId=player.cardImage | slugify %}
-<div class="card" markdown="0">
-    <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}" title="View large image">
+<div class="card player-profile-card" id="{{modalId}}" markdown="0">
+    <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}">
       <img src="{{ player.cardImage | absolute_url }}" alt="{{ include.alt }}">
     </a>
-    {% include player-profile-modal.html player=include.player %}
     <footer class="card-footer">
-      <span class="card-footer-item" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; text-align: center">
-        {{player.firstName}} {{player.lastName}}
+      <span class="card-footer-item player-name">
+        {{player.firstName}}
       </span>
       <span class="card-footer-item" style="flex-grow: 0">
         #{{player.number}}
       </span>
     </footer>
 </div>
+{% include player-profile-modal.html player=include.player %}

@@ -84,19 +84,79 @@ $primary: #1c4586;
   object-fit: contain;
 }
 
+// todo: deduplicate css between modal and card
 .player-modal {
   width: auto;
-  border-radius: 6px;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+
   $modal-card-spacing: 0;
   .modal-card-body {
     padding: 0;
     margin: 0;
     display: flex;
   }
+  .modal-card-foot {
+    background-color: #111171;
+    color: $white;
+    border: none;
+    padding: 5px;
+
+    .card-footer-item {
+      border: none;
+    }
+  }
+
+  .player-name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    text-align: center;
+  }
+
   img {
     object-fit: cover;
     object-position: top;
     min-height: 0;
+    aspect-ratio: 0.8;
+  }
+}
+
+.player-profile-card {
+  cursor: pointer;
+  transition: transform 100ms;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  border-radius: 0.5rem;
+
+  &:hover, &.is-active {
+    transform: scale(1.05)
+  }
+
+  .card-footer {
+    background-color: #111171;
+    color: $white;
+    border: none;
+
+    .card-footer-item {
+      border: none;
+    }
+  }
+
+  .player-name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    text-align: center;
+  }
+
+  img {
+    aspect-ratio: 0.8;
+    object-fit: cover;
+    object-position: top;
   }
 }
 
