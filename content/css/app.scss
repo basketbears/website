@@ -99,6 +99,7 @@ $card-background: #111171;
     }
   }
 
+  // TODO: find good way to fit philippe captain on card on widescreen
   .player-name {
     white-space: nowrap;
     overflow: hidden;
@@ -150,10 +151,8 @@ $card-background: #111171;
   }
 
   .card-footer-item {
-    @media screen and (max-width: 768px) {
-      padding-left: 0.5rem;
-      padding-right: 0.5rem
-    }
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 }
 
