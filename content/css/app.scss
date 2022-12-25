@@ -84,24 +84,16 @@ $primary: #1c4586;
   object-fit: contain;
 }
 
-// todo: deduplicate css between modal and card
-.player-modal {
-  width: auto;
+$card-background: #111171;
+.player-card {
   border-radius: 0.5rem;
-  font-size: 1.5rem;
-  letter-spacing: 1px;
+  background-color: $card-background;
+  color: $white;
 
-  $modal-card-spacing: 0;
-  .modal-card-body {
-    padding: 0;
-    margin: 0;
-    display: flex;
-  }
-  .modal-card-foot {
-    background-color: #111171;
-    color: $white;
+  footer {
     border: none;
-    padding: 5px;
+    background-color: $card-background;
+    color: $white;
 
     .card-footer-item {
       border: none;
@@ -117,10 +109,36 @@ $primary: #1c4586;
   }
 
   img {
+    aspect-ratio: 0.8;
     object-fit: cover;
     object-position: top;
-    min-height: 0;
-    aspect-ratio: 0.8;
+  }
+}
+
+.player-modal {
+  width: auto;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+
+  $modal-card-spacing: 0;
+  .modal-card-body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: $card-background;
+  }
+  .player-number {
+    padding: 0.25rem 0.5rem;
+    font-size: 1.5rem;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    border-bottom-right-radius: 1rem;
+    background-color: $card-background;
+    font-weight: bold;
+  }
+  footer {
+    padding: 0.25rem;
   }
 }
 
@@ -128,35 +146,9 @@ $primary: #1c4586;
   cursor: pointer;
   transition: transform 100ms;
   font-size: 1.25rem;
-  letter-spacing: 1px;
-  border-radius: 0.5rem;
 
   &:hover, &.is-active {
     transform: scale(1.05)
-  }
-
-  .card-footer {
-    background-color: #111171;
-    color: $white;
-    border: none;
-
-    .card-footer-item {
-      border: none;
-    }
-  }
-
-  .player-name {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: block;
-    text-align: center;
-  }
-
-  img {
-    aspect-ratio: 0.8;
-    object-fit: cover;
-    object-position: top;
   }
 }
 

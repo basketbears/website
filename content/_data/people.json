@@ -1,0 +1,212 @@
+{
+  "richard0-0": {
+    "firstName": "Richard",
+    "lastName": "Smets",
+    "displayName": "Richard S.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 3,
+      "cardImage": "/img/people/richard0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 1,
+      "bonuses": ["beginner"],
+      "totalPoints": 0
+    }
+  },
+  "jana0-0": {
+    "firstName": "Jana",
+    "lastName": "Bartlick",
+    "displayName": "Jana B.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 4,
+      "cardImage": "/img/people/jana0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 3,
+      "bonuses": ["woman", "beginner"],
+      "totalPoints": 1
+    }
+  },
+  "johannes0-0": {
+    "firstName": "Johannes",
+    "lastName": "von Heereman",
+    "displayName": "Johannes v. H.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 6,
+      "cardImage": "/img/people/johannes0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 4,
+      "bonuses": [],
+      "totalPoints": 4
+    }
+  },
+  "sven0-0": {
+    "firstName": "Sven",
+    "lastName": "Kaiser",
+    "displayName": "Sven K.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 7,
+      "cardImage": "/img/people/svenkaiser0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 2.5,
+      "bonuses": ["beginner"],
+      "totalPoints": 1.5
+    }
+  },
+  "jill0-0": {
+    "firstName": "Jill",
+    "lastName": "Kaiser-Föhles",
+    "displayName": "Jill K.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 8,
+      "cardImage": "/img/people/jill0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 3,
+      "bonuses": ["woman"],
+      "totalPoints": 1.5
+    }
+  },
+  "linda0-0": {
+    "firstName": "Linda",
+    "lastName": "Hövel",
+    "displayName": "Linda H.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 9,
+      "cardImage": "/img/people/linda0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 3,
+      "bonuses": ["woman", "beginner"],
+      "totalPoints": 1
+    }
+  },
+  "anna0-0": {
+    "firstName": "Anna",
+    "lastName": "Bartlick",
+    "displayName": "Anna B.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 10,
+      "cardImage": "/img/people/anna0-0-playercard.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": ["woman"],
+      "totalPoints": 3
+    }
+  },
+  "philippe0-0": {
+    "firstName": "Philippe",
+    "lastName": "von Parthier",
+    "displayName": "Philippe v. P.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 11,
+      "cardImage": "/img/people/philippe0-0-playercard.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": [],
+      "totalPoints": 4.5
+    }
+  },
+  "yannik0-0": {
+    "firstName": "Yannik",
+    "lastName": "Parthier",
+    "displayName": "Yannik P.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 12,
+      "cardImage": "/img/people/yannik0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 2.5,
+      "bonuses": ["beginner"],
+      "totalPoints": 1.5
+    }
+  },
+  "jakobus0-0": {
+    "firstName": "Jakobus",
+    "lastName": "von Lengerke",
+    "displayName": "Jakobus v. L.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 15,
+      "cardImage": "/img/people/jakobus0-0-playercard.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": [],
+      "totalPoints": 4.5
+    }
+  },
+  "robin0-0": {
+    "firstName": "Robin",
+    "lastName": "Croonenbroeck",
+    "displayName": "Robin C.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 19,
+      "cardImage": "/img/people/robin0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 2,
+      "bonuses": ["beginner"],
+      "totalPoints": 1
+    }
+  },
+  "heiko0-0": {
+    "firstName": "Heiko",
+    "lastName": "Mathes",
+    "displayName": "Heiko M.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 21,
+      "cardImage": "/img/people/heiko0-0-playercard.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": [],
+      "totalPoints": 4.5
+    }
+  },
+  "andre0-0": {
+    "firstName": "André",
+    "lastName": "Kostka",
+    "displayName": "André K.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 22,
+      "cardImage": "/img/people/andre0-0-playercard.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": [],
+      "totalPoints": 4.5
+    }
+  },
+  "mike0-0": {
+    "firstName": "Mike",
+    "lastName": "Lausberg",
+    "displayName": "Mike L.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 25,
+      "cardImage": "/img/people/mike0-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 2.5,
+      "bonuses": ["beginner"],
+      "totalPoints": 1.5
+    }
+  },
+  "sven1-0": {
+    "firstName": "Sven",
+    "lastName": "Kühne",
+    "displayName": "Sven K.",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 26,
+      "cardImage": "/img/people/sven1-0-playercard.webp",
+      "isDisabled": true,
+      "basePoints": 3,
+      "bonuses": ["beginner"],
+      "totalPoints": 2
+    }
+  }
+}
