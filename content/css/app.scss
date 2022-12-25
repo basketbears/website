@@ -1,3 +1,5 @@
+---
+---
 $primary: #1c4586;
 @import "main";
 
@@ -142,10 +144,16 @@ $card-background: #111171;
 .player-profile-card {
   cursor: pointer;
   transition: transform 100ms;
-  font-size: 1.25rem;
 
   &:hover, &.is-active {
     transform: scale(1.05)
+  }
+
+  .card-footer-item {
+    @media screen and (max-width: 768px) {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem
+    }
   }
 }
 
