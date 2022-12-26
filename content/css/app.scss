@@ -1,10 +1,10 @@
 ---
 ---
-$primary: #1c4586;
+$primary: {{site.theme_color}};
 @import "main";
 
 .footer {
-  padding: 3rem 1.5rem 2rem
+  padding: 2rem 1.5rem
 }
 
 .players {
@@ -14,12 +14,18 @@ $primary: #1c4586;
 }
 
 .post-date {
-  margin-bottom: 1rem;
-  margin-top: -2rem;
+  margin-bottom: 0.5rem;
+  margin-top: -1rem;
+
+  @include desktop {
+    margin-bottom: 1rem;
+    margin-top: -2rem;
+  }
   height: 1rem;
   display: flex;
   justify-content: end;
   font-size: 0.875em;
+
 }
 
 .post-author {
@@ -83,15 +89,15 @@ $primary: #1c4586;
   object-fit: contain;
 }
 
-$card-background: #111171;
 .player-card {
+  --card-background: #111171;
   border-radius: 0.5rem;
-  background-color: $card-background;
+  background-color: var(--card-background);
   color: $white;
 
   footer {
     border: none;
-    background-color: $card-background;
+    background-color: var(--card-background);
     color: $white;
 
     .card-footer-item {
@@ -102,7 +108,6 @@ $card-background: #111171;
   .player-name {
     white-space: nowrap;
     overflow: hidden;
-    text-overflow: ellipsis;
     display: block;
     text-align: center;
   }
@@ -124,7 +129,7 @@ $card-background: #111171;
     padding: 0;
     margin: 0;
     display: flex;
-    background-color: $card-background;
+    background-color: var(--card-background);
   }
   .player-number {
     padding: 0.25rem 0.5rem;
@@ -133,7 +138,7 @@ $card-background: #111171;
     left: 0px;
     position: absolute;
     border-bottom-right-radius: 1rem;
-    background-color: $card-background;
+    background-color: var(--card-background);
     font-weight: bold;
   }
   footer {
@@ -143,17 +148,32 @@ $card-background: #111171;
 
 .player-profile-card {
   cursor: pointer;
-  transition: transform 100ms;
+  transition: transform 100ms, box-shadow 100ms;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.2), 0 0px 0 1px rgba(10, 10, 10, 0.02);
 
   &:hover, &.is-active {
-    transform: scale(1.05)
+    transform: scale(1.05);
+    box-shadow: 0 0.5em 1.5em 0 rgba(10, 10, 10, 0.3), 0 0px 0 1px rgba(10, 10, 10, 0.02);
   }
 
   .card-footer-item {
-    @media screen and (max-width: 768px) {
-      padding-left: 0.5rem;
-      padding-right: 0.5rem
+    padding: 0.5rem 0.75rem;
+    @include mobile {
+      padding: 0.5rem 0.5rem;
     }
+  }
+}
+
+.centered-on-desktop {
+  @include desktop-only {
+    justify-content: center;
+  }
+}
+
+section.section {
+  padding: 1.5rem;
+  @include desktop {
+    padding: 3rem;
   }
 }
 

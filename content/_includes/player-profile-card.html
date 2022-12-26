@@ -1,6 +1,11 @@
 {% assign player=site.data.people[include.playerId] %}
 {% assign modalId=player.playerInfo.cardImage | append: '-' | append: include.number | slugify %}
-<div class="card player-card player-profile-card is-size-6-mobile is-size-5" id="{{modalId}}" markdown="0">
+<div
+  class="card player-card player-profile-card is-size-6-mobile is-size-5"
+  id="{{modalId}}"
+  markdown="0"
+  {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
+>
     <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}">
       <img src="{{ player.playerInfo.cardImage | absolute_url }}" alt="{{ include.alt }}">
     </a>
@@ -8,7 +13,7 @@
       <span class="card-footer-item player-name">
         {{player.firstName}}
       </span>
-      <span class="card-footer-item is-size-7-mobile is-size-5" style="flex-grow: 0">
+      <span class="card-footer-item is-size-6-mobile is-size-5" style="flex-grow: 0">
         {% if include.number != null %}
         {{include.number}}
         {% else %}
@@ -17,4 +22,4 @@
       </span>
     </footer>
 </div>
-{% include player-profile-modal.html playerId=include.playerId number=include.number %}
+{% include player-profile-modal.html playerId=include.playerId number=include.number background=include.background%}

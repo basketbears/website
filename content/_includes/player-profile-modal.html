@@ -2,7 +2,10 @@
 {% assign modalId=player.playerInfo.cardImage | append: '-' | append: include.number | slugify %}
 <div class="modal" id="{{modalId}}" onclick="toggleModal('{{modalId}}')" markdown="0">
   <div class="modal-background"></div>
-  <div class="modal-card player-card player-modal">
+  <div
+    class="modal-card player-card player-modal"
+    {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
+  >
     <section class="modal-card-body">
       <img src="{{ player.playerInfo.cardImage | absolute_url }}" alt="{{ include.alt }}">
       <div class="player-number">
