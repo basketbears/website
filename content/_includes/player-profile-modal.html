@@ -6,8 +6,8 @@
     class="modal-card player-card player-modal"
     {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
   >
-    <section class="modal-card-body">
-      <img src="{{ player.playerInfo.cardImage | absolute_url }}" alt="{{ include.alt }}">
+    <section class="modal-card-body" markdown="0">
+      <img loading="lazy" src="{{ player.playerInfo.cardImage | absolute_url }}" alt="{{ include.alt }}">
       <div class="player-number">
         {% if include.number != null %}
         {{include.number}}
