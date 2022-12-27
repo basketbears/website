@@ -7,7 +7,7 @@
   {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
 >
     <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}">
-      <img src="{{ player.playerInfo.cardImagePreview | absolute_url }}" alt="{{ include.alt }}">
+      <img src="{{ player.playerInfo.cardImagePreview }}" alt="{{ include.alt }}">
     </a>
     <footer class="card-footer">
       <span class="card-footer-item player-name">

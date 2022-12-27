@@ -9,9 +9,9 @@
       <div class="modal-background"></div>
       <div class="modal-card image-modal">
           {% if include.large_link %}
-              <img src="{{ include.large_link | absolute_url }}" alt="{{ include.alt }}">
+              <img loading="lazy" src="{{ include.large_link | absolute_url }}" alt="{{ include.alt }}">
           {% else %}
-              <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
+              <img loading="lazy" src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
           {% endif %}
       </div>
       <button class="modal-close is-large" aria-label="close" onclick="toggleModal('{{id}}')"></button>
