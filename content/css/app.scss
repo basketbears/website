@@ -131,6 +131,10 @@ $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,2
     margin: 0;
     display: flex;
     background: $player-card-gradient;
+    img {
+      width: 100%;
+      max-height: calc(100vh - 120px);
+    }
   }
   .player-number {
     padding: 0.25rem 0.5rem;
