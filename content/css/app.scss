@@ -89,10 +89,11 @@ $primary: {{site.theme_color}};
   object-fit: contain;
 }
 
+$player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,238,238,1) 50%, rgba(178,187,207,1) 100%);
 .player-card {
   --card-background: #111171;
   border-radius: 0.5rem;
-  background-color: var(--card-background);
+  background: $player-card-gradient;
   color: $white;
 
   footer {
@@ -129,7 +130,7 @@ $primary: {{site.theme_color}};
     padding: 0;
     margin: 0;
     display: flex;
-    background-color: var(--card-background);
+    background: $player-card-gradient;
   }
   .player-number {
     padding: 0.25rem 0.5rem;
