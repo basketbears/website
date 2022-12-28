@@ -103,6 +103,7 @@ $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,2
 
     .card-footer-item {
       border: none;
+      user-select: none;
     }
   }
 

@@ -4,9 +4,10 @@
   class="card player-card player-profile-card is-size-6-mobile is-size-5"
   id="{{modalId}}"
   markdown="0"
+  onclick="toggleModal('{{modalId}}')" 
   {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
 >
-    <a onclick="toggleModal('{{modalId}}')" id="{{modalId}}">
+    <a id="{{modalId}}">
       <img src="{{ player.playerInfo.cardImagePreview }}" alt="{{ include.alt }}">
     </a>
     <footer class="card-footer">
