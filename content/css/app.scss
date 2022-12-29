@@ -191,25 +191,40 @@ section.section {
   overflow: hidden;
   align-items: center;
   justify-items: left;
-  padding-right: 0.25rem;
+  padding-right: 0.35rem;
+  height: 2rem;
+  box-sizing: content-box;
+  transition: transform 100ms, margin 100ms;
+  background-color: white;
+  user-select: none;
+  transform-origin: center left;
+  &:hover {
+    transform: scale(1.5);
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
   .player-tag-image {
-    aspect-ratio: 1;
+    width: 2rem;
+    height: 2rem;
   }
   .player-tag-name {
     flex-grow: 1;
     border-right: 1px solid $border;
-    padding-left: 0.25rem;
-    padding-right: 0.25rem;
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+    display: flex;
+    align-items: center;
+    height: 100%
   }
   .player-tag-number {
-    padding-left: 0.25rem;
+    padding-left: 0.35rem;
     font-weight: bold;
     font-size: 0.8rem;
   }
 
   &.fixed-width {
     .player-tag-image {
-      width: 1.5rem;
+      width: 2rem;
     }
     .player-tag-number {
       min-width: 29px;
