@@ -7,8 +7,18 @@ author: Sven Kaiser und Jill Kaiser-Föhles
 image: /img/news/2022-10-29-baerenstarker-auftritt.webp
 hero_image: /img/news/2022-10-29-baerenstarker-auftritt.webp
 hero_darken: true
-players: [Jana Bartlick (#4), Johannes v. Heereman (#6), Sven Kaiser (#7), Anna Bartlick (#10) , Philippe Parthier (#11), Yannik Parthier (#12), Jakobus v. Lengerke (#15), Robin Croonenbroeck (#19), Mike Lausberg (#25), Sven Kühne (#26)]
-Coach: Sven Kaiser
+players:
+  - jana0-0
+  - johannes0-0
+  - sven0-0
+  - anna0-0
+  - philippe0-0
+  - yannik0-0
+  - jakobus0-0
+  - robin0-0
+  - mike0-0
+  - sven1-0
+coach: sven0-0
 ---
 
 ## Ankunft

@@ -11,6 +11,8 @@ $primary: {{site.theme_color}};
   display: flex;
   flex-direction: column;
   margin-left: 1rem;
+  width: fit-content;
+  gap: 0.25rem;
 }
 
 .post-date {
@@ -38,10 +40,6 @@ $primary: {{site.theme_color}};
   justify-content: end;
   font-size: 0.875em;
   color: $title-color;
-}
-
-.player, .coach {
-  margin-bottom: 0.2rem;
 }
 
 .card {
@@ -182,6 +180,40 @@ section.section {
   padding: 1.5rem;
   @include desktop {
     padding: 3rem;
+  }
+}
+
+.player-tag {
+  border-radius: 1rem;
+  border: 1px solid $border;
+  display: inline-flex;
+  white-space: nowrap;
+  overflow: hidden;
+  align-items: center;
+  justify-items: left;
+  padding-right: 0.25rem;
+  .player-tag-image {
+    aspect-ratio: 1;
+  }
+  .player-tag-name {
+    flex-grow: 1;
+    border-right: 1px solid $border;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+  .player-tag-number {
+    padding-left: 0.25rem;
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+
+  &.fixed-width {
+    .player-tag-image {
+      width: 1.5rem;
+    }
+    .player-tag-number {
+      min-width: 29px;
+    }
   }
 }
 

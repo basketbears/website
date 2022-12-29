@@ -8,17 +8,18 @@ hero_image: /img/news/2022-09-10-testspiel-in-bertlich.webp
 image: /img/news/2022-09-10-testspiel-in-bertlich-preview.webp
 image_source: Heiko Mathes
 players:
-  - Anna Bartlich (#10)
-  - Jana Bartlick (#4)
-  - Robin Croenenbroeck (#19)
-  - Johannes v. Heereman (#6)
-  - Linda Hövel (#9)
-  - Sven Kaiser (#7)
-  - Jill Kaiser-Föhles (#8)
-  - Sven Kühne (#26)
-  - Mike Lausberg (#25) Jakobus v. Lengerke (#15)
-  - Heiko Mathes (#21)
-coach: Sven Kaiser
+  - anna0-0
+  - jana0-0
+  - robin0-0
+  - johannes0-0
+  - linda0-0
+  - sven0-0
+  - jill0-0
+  - sven1-0
+  - mike0-0
+  - jakobus0-0
+  - heiko0-0
+coach: sven0-0
 ---
 Okay… so war das auch nicht gemeint, als wir vor einer Woche noch bei heißem Wetter und viel Sonne in Köln beim 3x3 Turnier vor der Lanxess-Arena geschwitzt und um ein paar Wolken und kühle Temperaturen gebeten hatten. Denn heute sollten wir mit dem Gegenteil konfrontiert werden.
 

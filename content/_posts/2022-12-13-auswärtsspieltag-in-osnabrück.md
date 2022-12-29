@@ -8,17 +8,17 @@ hero_image: /img/news/2022-12-03-auswaertsspieltag-in-osnabrueck.webp
 image: /img/news/2022-12-03-auswaertsspieltag-in-osnabrueck_preview.webp
 image_source: Heiko Mathes
 players:
-  - Jana Bartlick (#4)
-  - Sven Kaiser (#7)
-  - Jill Kaiser-Föhles (#8)
-  - Linda Hövel (#9)
-  - Philippe Parthier (#11)
-  - Robin Croonenbroeck (#19)
-  - Heiko Mathes (#21)
-  - Andre Kostka (#22)
-  - Mike Lausberg (#25)
-  - Sven Kühne (#26)
-coach: Sven Kaiser
+  - anna0-0
+  - sven0-0
+  - jill0-0
+  - linda0-0
+  - philippe0-0
+  - robin0-0
+  - heiko0-0
+  - andre0-0
+  - mike0-0
+  - sven1-0
+coach: sven0-0
 ---
 <!--StartFragment-->
 

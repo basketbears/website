@@ -7,19 +7,19 @@ author: Sven Kaiser und Jill Kaiser-Föhles
 hero_image: /img/news/2022-10-23-mit-pauken-und-trompeten.webp
 image: /img/news/2022-10-23-mit-pauken-und-trompeten.webp
 players:
-  - Richard Smets (#3)
-  - Jana Bartlick (#4)
-  - Johannes v. Heereman (#6)
-  - Sven Kaiser (#7)
-  - Anna Bartlick (#10)
-  - Philippe Parthier (#11)
-  - Yannik Parthier (#12)
-  - Jakobus v. Lengerke (#15)
-  - Robin Croonenbroeck (#19)
-  - Heiko Mathes (#21)
-  - Mike Lausberg (#25)
-  - Sven Kühne (#26)
-coach: Linda Hövel
+  - richard0-0
+  - jana0-0
+  - johannes0-0
+  - sven0-0
+  - anna0-0
+  - philippe0-0
+  - yannik0-0
+  - jakobus0-0
+  - robin0-0
+  - heiko0-0
+  - mike0-0
+  - sven1-0
+coach: linda0-0
 ---
 Am vergangenen Samstag war es endlich soweit. Die Basket Bears Krefeld hatten ihr Debüt in der Landesliga West. Eine Bewährungsprobe, nicht nur auf sportlicher Ebene. Auch auch als Gastgeber durften wir unsere Qualitäten unter Beweis stellen, denn der erste Spieltag für unsere Mannschaft sollte ein Heimspieltag in Krefeld sein. Zu Gast waren die TVK Green Sharks Essen und der UBC Münster.
 

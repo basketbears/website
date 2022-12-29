@@ -1,8 +1,8 @@
 <div class="players">
   {% for player in page.players %}
-  <div class="player">{{player}}</div>
+    {% include player-tag.html id=player fixedWidth=true %}
   {% endfor %}
   {% if page.coach %}
-  <div class="coach"><b>Coach:</b> {{page.coach}}</div>
+    {% include player-tag.html id=page.coach fixedWidth=true number="Coach" %}
   {% endif %}
 </div>

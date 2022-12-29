@@ -8,19 +8,19 @@ hero_image: /img/news/2022-11-13-zweiter-heimspieltag-header.webp
 image: /img/news/2022-11-13-zweiter-heimspieltag.webp
 image_source: Andre Kostka
 players:
-  - Jana Bartlick (#4)
-  - Johannes v. Heereman (#6)
-  - Sven Kaiser (#7)
-  - Jill Kaiser-Föhles (#8)
-  - Linda Hövel (#9)
-  - Anna Bartlick (#10)
-  - Philippe Parthier (#11)
-  - Jakobus v. Lengerke (#15)
-  - Robin Croonenbroeck (#19)
-  - Heiko Mathes (#21)
-  - Mike Lausberg (#25)
-  - Sven Kühne (#26)
-coach: Sven Kaiser
+  - jana0-0
+  - johannes0-0
+  - sven0-0
+  - jill0-0
+  - linda0-0
+  - anna0-0
+  - philippe0-0
+  - jakobus0-0
+  - robin0-0
+  - heiko0-0
+  - mike0-0
+  - sven1-0
+coach: sven0-0
 ---
 Es war wieder soweit. Was fast schon nichts mehr besonderes für unsere Bären war, es war schließlich bereits der vierte Landesligaspieltag. u. Und langsam spielte sich auch die Routine ein.
 
