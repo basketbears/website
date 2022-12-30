@@ -44,12 +44,13 @@ Anfahrt über den Lehrerparkplatz am Winnertzweg
 <div class="column is-6" markdown="1">
 <div class="block">
 
+{% assign robin=site.data.people['robin0-0'] %}
 {% include person-card.html
   title="Behindertenbeauftragter"
   name="Robin Croonenbroeck"
   email="robin.croenenbroeck@basketbears.de"
   emailText="robin.croenenbroeck&ZeroWidthSpace;@basketbears.de"
-  image="/img/profile-pictures/robin.webp"
+  image=robin.profileImage
 %}
 
 </div>
@@ -57,12 +58,13 @@ Anfahrt über den Lehrerparkplatz am Winnertzweg
 <div class="column is-6" markdown="1">
 <div class="block">
 
+{% assign sven=site.data.people['sven0-0'] %}
 {% include person-card.html
   title="Sportliche Leitung"
   name="Sven Kaiser"
   email="sven.kaiser@basketbears.de"
   emailText="sven.kaiser&ZeroWidthSpace;@basketbears.de"
-  image="/img/profile-pictures/sven.webp"
+  image=sven.profileImage
 %}
 
 </div>
