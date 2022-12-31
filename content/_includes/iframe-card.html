@@ -1,15 +1,12 @@
-<div
-  class="card"
-  {% if include.style %}
-  style="{{include.style}}"
-  {% endif %}
->
+<div markdown="0" {% if include.style %} style="{{include.style}}" {% endif %}>
   <sup>Quelle: <a href="http://{{include.source}}" target="_blank">{{include.source}}</a></sup>
-  <iframe
-    src="{{include.src}}"
-    style="border-width: 0"
-    width="100%"
-    height="{{include.height}}"
-    loading="lazy"
-  ></iframe>
+  <div class="card" style="margin-top: -0.5rem">
+    <iframe
+      src="{{include.src}}"
+      style="border-width: 0"
+      width="100%"
+      height="{{include.height}}"
+      loading="lazy"
+    ></iframe>
+  </div>
 </div>
