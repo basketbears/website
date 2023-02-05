@@ -15,11 +15,11 @@ players:
   - linda0-0
   - anna0-0
   - philippe0-0
-  - yannik 0-0
+  - yannik0-0
   - jakobus0-0
   - robin0-0
   - heiko0-0
-  - andre 0-0
+  - andre0-0
   - mike0-0
   - sven1-0
 coach: Sven Kaiser, Jill Kaiser Föhles
