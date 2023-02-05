@@ -22,7 +22,7 @@ players:
   - andre0-0
   - mike0-0
   - sven1-0
-coach: Sven Kaiser, Jill Kaiser Föhles
+coach: sven0-0, jill0-0
 ---
 Nein, die Bahn hat keinen Fehler gemacht. Am vergangenen Sonntag hatten wir unseren letzten Heimspieltag der Saison 2022/2023. Zu Gast waren Mannschaften aus den an den Flüssen Rhein und Ruhr gelegenen Städten Köln und Essen. Konkreter: Die 4. Mannschaft des RBC Köln 99ers und die 2. Mannschaft der Green Sharks Essen. Während wir zum ersten Mal (zumindest in offiziellen Begegnungen) auf die Kölner treffen würden, hatten wir zum Saisonauftakt schon einmal das Vergnügen, gegen die Green Sharks anzutreten. Heute wollten wir unseren Sieg aus dem Hinspiel also bestätigen und zwei, am besten vier Punkte in Krefeld behalten.
 
