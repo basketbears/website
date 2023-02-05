@@ -8,7 +8,7 @@ hero_image: /img/news/20230129-img_6793.jpg
 image: /img/news/20230129-img_6793.jpg
 image_source: Patrick Weirauch
 players:
-  - Richard0-0
+  - richard0-0
   - johannes0-0
   - sven0-0
   - jill0-0
