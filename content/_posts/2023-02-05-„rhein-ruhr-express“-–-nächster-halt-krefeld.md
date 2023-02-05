@@ -34,15 +34,9 @@ Das zweite Viertel ging spannend weiter, mit Korberfolgen und Fouls auf beiden S
 
 Die Pause wurde wie immer genutzt, um eine neue Strategie auszuloten und die Aufstellung der Mannschaft anzupassen. Erfahrungsgemäß war das dritte Viertel nicht unser schlechtestes. Aber was sind schon Statistiken, wenn das bisherige Spiel auch nicht irgendwelchen Erwartungen gefolgt war? Doch irgendwie schien doch etwas dran zu sein. Das Spiel auf Seiten der Basket Bears wurde mit Beginn der zweiten Spielhälfte attraktiver und flexibler gestaltet. Etwas offensiver ließ man sich von der reinen Zonenverteidigung ab und konzentrierte sich auf den eigenen Angriff. Ein Plan, der wieder einmal aufging. Mit 20 erzielten Punkten konnten wir, trotz der 6 erzielten Punkte auf Kölner Seite, das Spiel deutlich drehen. Gezieltes verteidigen im Vorfeld und schnelles Umschalten von der Verteidigung in die Offensive trugen Früchte. Den Vorsprung von nun 13 Punkten konnten wir nahezu unverändert auch im letzten Spielabschnitt behalten und das erste Spiel des ersten Spieltages im neuen Jahr für uns beanspruchen. Mit soliden 51: 36 Punkten ergatterten wir weitere 2 wertvolle Punkte in der aktuellen Saison.
 
-
-
 Das zweite Spiel des Tages sollte die Partie zwischen unseren beiden Gastmannschaften sein. Die Green Sharks aus Essen waren mittlerweile eingetroffen und hatten sich am Spielfeldrand vorbereitet. Die Bären hatten also Zeit, sich auszuruhen und das Spiel der beiden Gastmannschaften zu beobachten. 37:26 sollte dieses zu Gunsten der Green Sharks enden.
 
-
-
 Ohne die Spieltagsverschiebung vom 07. Januar auf den 25. März wäre das folgende Spiel gegen Essen das letzte der Saison gewesen. So müssen wir uns noch knapp 2 Monate bis zum Ende unserer Saison gedulden. Zunächst aber hatten wir das Spiel gegen die Green Sharks zu bestreiten. Die Mannschaft, die uns als Newcomer in der Landesliga im Auftaktspiel begrüßt hatte. Hochmotiviert gingen beide Mannschaften aufs Spielfeld. Die Basket Bears, nicht nur den subjektiven Heimvorteil mit bekannter Halle, hatten auch eine längere Erholungsphase. Aber so waren die Regeln nun mal. Die Gastgeber hatten das „Privileg“ des ersten und letzten Spiels und somit eben ein Spiel Pause in der Mitte.
-
-
 
 Für unsere Bären sollten Anna Bartlick, Johannes v. Heereman, Robin Croonenbroeck, Heiko Mathes und Sven Kühne in der Starting-Five beginnen. Das Spiel begann zum Glück vollkommen anders als das erste Match gegen Köln. Von Beginn an schafften wir es, durch unser endlich wieder gefundenes Spielverständnis und Teamplay, die Verteidigungsversuche des Gegners zu umgehen und den Punktevorteil über die gesamte Länge des Spiels auf unserer Seite zu behalten. Aus einem 12:3 nach dem ersten Spielabschnitt, wurde ein genauso sicheres 28:8 in der Halbzeitpause. 
 
@@ -50,8 +44,10 @@ So könnte es aus unserer Sicht gerne weitergehen. In der Halbzeit wurde das Tea
 
 Mit sicherer Führung im Gepäck konnten wir das Spiel mit der notwendigen Ruhe angehen und allen im Team ihre Spielzeit geben. Auch bis zum Abpfiff war die Führung unserer Bären nicht mehr einzuholen. Mit über doppelt so vielen Punkten stand es am Ende 63:27 für die Gastgeber aus Krefeld, die sich wieder einmal als tolles Team mit starkem Zusammenhalt präsentiert hatten. Auch für die Punkte und Korbstatistik war dieses Ergebnis wichtig.
 
-
-
 Wie immer möchten wir uns bei allen bedanken, die diesen Spieltag ermöglicht haben. 
 
 Wir freuen uns auf das Rheinderby in Köln, wo wir unsere Saison beenden werden und ein zweites Mal auch auf die Art Giants Düsseldorf treffen werden.
+
+<u> Im Kader der Basket Bears Krefeld waren folgende Spieler vertreten:</u>
+
+{% include kader.html %}
