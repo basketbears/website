@@ -4,8 +4,8 @@ date: 2023-02-05
 title: "„Rhein Ruhr Express“ – Nächster Halt: Krefeld"
 summary: Der letzte Heimspieltag der Saison
 author: Sven Kaiser
-hero_image: /img/news/20230129-img_6793.jpg
-image: /img/news/20230129-img_6793.jpg
+hero_image: /img/news/29012023header.jpg
+image: /img/news/29012023pre.jpg
 image_source: Patrick Weirauch
 players:
   - richard0-0
