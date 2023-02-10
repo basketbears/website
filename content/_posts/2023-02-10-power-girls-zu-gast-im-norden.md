@@ -2,7 +2,7 @@
 layout: post
 date: 2023-02-10
 title: Power-Girls zu Gast im Norden
-summary: Unsere Nachwuchs-Talente unterstüzuen die Regional-Liga Nord
+summary: Unsere Nachwuchs-Talente unterstützen die Regionalliga Nord
 author: Jana und Anna Bartlick
 hero_image: /img/news/unbenannt.png
 image: /img/news/unbenannt.png
