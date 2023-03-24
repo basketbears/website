@@ -253,5 +253,22 @@
       "bonuses": ["beginner"],
       "totalPoints": 2
     }
+  },
+  "patrick0-0": {
+    "firstName": "Patrick",
+    "lastName": "Weirauch",
+    "displayName": "Patrick W.",
+    "profileImage": "/img/people/patrick0-0/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 14,
+      "cardImage": "/img/people/patrick0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/patrick0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/patrick0-0/profile_128.webp",
+      "isDisabled": true,
+      "basePoints": 1.0,
+      "bonuses": [],
+      "totalPoints": 1.0
+    }
   }
 }
