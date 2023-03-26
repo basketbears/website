@@ -57,3 +57,7 @@ Für uns geht eine irre erste Saison in der Landesliga zu Ende. Erfolgreicher al
 <u> Im Kader der Basket Bears Krefeld waren folgende Spieler vertreten:</u>
 
 {% include kader.html %}
+
+
+
+![](/img/news/unbenannt.jpg)
