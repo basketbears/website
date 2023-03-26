@@ -18,6 +18,7 @@ players:
   - andre0-0
   - mike0-0
   - sven1-0
+  - patrick0-0
 coach: sven0-0
 ---
 Derby-Time in Köln. Der für uns achte und letzte Spieltag der Saison 2022/2023 war gekommen. 
