@@ -5,7 +5,7 @@ title: Spannung bis zum Schluss
 summary: Basket Bears bestreiten ihren letzten Spieltag der Saison
 author: Sven Kaiser
 hero_image: /img/news/lls8-head.jpg
-image: /img/news/lls8pre.jpg
+image: /img/news/2021-09-28-kickoffturnier-in-koeln-preview.webp
 coach: Sven Kaiser
 ---
 Derby-Time in Köln. Der für uns achte und letzte Spieltag der Saison 2022/2023 war gekommen. 
