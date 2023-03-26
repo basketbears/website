@@ -7,7 +7,7 @@ author: Sven Kaiser
 hero_image: /img/news/lls8-head.jpg
 image: /img/news/lls8pre.jpg
 players:
-  - Jana0-0
+  - jana0-0
   - johannes0-0
   - sven0-0
   - jill0-0
@@ -18,8 +18,7 @@ players:
   - andre0-0
   - mike0-0
   - sven1-0
-  - ""
-coach: Sven Kaiser
+coach: sven0-0
 ---
 Derby-Time in Köln. Der für uns achte und letzte Spieltag der Saison 2022/2023 war gekommen. 
 
