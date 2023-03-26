@@ -4,7 +4,7 @@ date: 2023-03-26
 title: Spannung bis zum Schluss
 summary: Basket Bears bestreiten ihren letzten Spieltag der Saison
 author: Sven Kaiser
-hero_image: /img/news/unbenannt.jpg
+hero_image: /img/news/lls8-head.jpg
 image: /img/news/unbenannt.jpg
 coach: Sven Kaiser
 ---
