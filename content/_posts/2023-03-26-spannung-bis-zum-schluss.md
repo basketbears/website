@@ -53,8 +53,8 @@ Zurückblickend auf die vergangene Saison, hatten wir nicht nur heute eine richt
 
 Ihr seid es, die diesen Sport ausmachen, die Leidenschaft und Engagement mitbringen und für den gemeinsamen Erfolg kämpfen.
 
-
-
 Für uns geht eine irre erste Saison in der Landesliga zu Ende. Erfolgreicher als am Anfang geglaubt, vor allem aus sportlicher Perspektive. Wir freuen uns schon jetzt auf die kommende Saison nach der Sommerpause.  Vorher schauen wir gespannt auf die letzte Begegnung zwischen den Köln 99ers 4 und den Art Giants Düsseldorf, die auch noch mal spannend für unsere Tabellenplatzierung werden könnte.
 
-Im Kader der Basket Bears waren beim letzten Spieltag der Saison 2022/23 in Köln
+<u> Im Kader der Basket Bears Krefeld waren folgende Spieler vertreten:</u>
+
+{% include kader.html %}
