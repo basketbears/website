@@ -18,7 +18,7 @@ players:
   - andre0-0
   - mike0-0
   - sven1-0
-  - Patrick0-0
+  - patrick0-0
 coach: Sven Kaiser
 ---
 Derby-Time in Köln. Der für uns achte und letzte Spieltag der Saison 2022/2023 war gekommen. 
