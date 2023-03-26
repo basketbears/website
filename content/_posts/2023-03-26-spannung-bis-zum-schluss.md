@@ -20,6 +20,8 @@ players:
   - patrick0-0
 coach: sven0-0
 ---
+![]()
+
 Derby-Time in Köln. Der für uns achte und letzte Spieltag der Saison 2022/2023 war gekommen. 
 
 Neben dem Gastgeber aus Köln, die 4. Mannschaft des RBC Köln 99ers auf die wir am Nachmittag treffen sollten, waren auch der aktuelle Tabellenführer, die ART Giants Düsseldorf angereist. Diese hatten ihr erstes Spiel des Tages gegen den RBC mit nur hauchdünnem Abstand gewinnen können. Vor allem im ersten Spielabschnitt sah es mit 10 Punkten Vorsprung noch so aus, als würden die Kölner einen haushohen Sieg einfahren.
@@ -58,9 +60,4 @@ Für uns geht eine irre erste Saison in der Landesliga zu Ende. Erfolgreicher al
 
 {% include kader.html %}
 
-
-
-
-
-
-
+![](/img/news/lls8-small.jpg)
