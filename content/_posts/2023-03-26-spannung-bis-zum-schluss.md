@@ -14,7 +14,6 @@ players:
   - anna0-0
   - jakobus0-0
   - robin0-0
-  - heiko0-0
   - andre0-0
   - mike0-0
   - sven1-0
