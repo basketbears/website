@@ -35,3 +35,27 @@ Das Frühstück war an diesem Morgen gefühlt noch früher. Vielleicht war die N
 Das Spiel war wirklich spannend und zumindest bis zur Halbzeitpause sehr ausgeglichen. Die Schlussphase konnten die Heidelberger aber deutlich für sich behaupten. Das schnelle Transition-Game und die Überlegenheit im Detail zeichneten dieses Team und ihre erfahrene Trainerin aus. Ein Sieg, den wir neidlos anerkennen mussten. und ein Spiel, aus dem wir in der Nachbereitung bestimmt vieles für uns lernen können. Vielen Dank für diese Möglichkeit und wir freuen uns auf ein Wiedersehen.
 
 Das gilt auch für die Manfred-Sauer-Stiftung. Wir möchten uns an dieser Stelle sehr herzlich für die tolle Gastfreundschaft, die absolut einfache und problemlose Planung, die Unterstützung vor Ort und das tolle Essen bedanken. Wir haben uns sehr wohl gefühlt und freuen uns auf ein nächstes Mal, hoffentlich schon 2024.. Für unsere Mannschaft steht nämlich schon fest: „Das müssen wir auf jeden Fall wiederholen. Dann gerne auch länger als ein Wochenende“
+
+![](/img/news/20230526-_dsc5551.jpg)
+
+![](/img/news/20230526-_dsc5129.jpg)
+
+![](/img/news/20230526-_dsc5576.jpg)
+
+![](/img/news/20230526-_dsc6051.jpg)
+
+![](/img/news/20230527-_dsc6791.jpg)
+
+![](/img/news/20230527-_dsc6480.jpg)
+
+![](/img/news/20230527-_dsc6840.jpg)
+
+![](/img/news/20230527-_dsc6942.jpg)
+
+![](/img/news/20230527-_dsc6959.jpg)
+
+![](/img/news/20230528-_dsc7637.jpg)
+
+![](/img/news/20230528-_dsc7805.jpg)
+
+![](/img/news/20230528-_dsc7951.jpg)
