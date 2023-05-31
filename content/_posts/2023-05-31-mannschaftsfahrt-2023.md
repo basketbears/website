@@ -28,10 +28,36 @@ Nach einem wirklich fordernden Nachmittag, ließen wir es nach dem Abendessen et
 
 Um 21:00 hieß es dann „Cool-down“ auf dem Kaiserring. Ein 500m langer Handbike- und Rollstuhl-Rundweg auf dem Gelände der Manfred-Sauer-Stiftung.  Lockeres Ausfahren in den Aktivrollstühlen bzw. zu Fuß war ein guter Abschluss eines langen sportlichen Tages, bevor  wir zum Duschen und im Anschluss zum geselligen Teil des Abends übergingen. - Einen Bericht zu den teils lückenhaften Erinnerungen an diesen Abend lassen wir an dieser Stelle einmal aus 😊 - Nein, so schlimm war es natürlich nicht. Schließlich mussten wir am nächsten Tag wieder fit sein, wenn wir gegen die heimischen Gäste der Heidelberger Mannschaft eine Chance haben wollten. 
 
- **Sonntag, 28.05.2023:**
+**Sonntag, 28.05.2023:**
 
 Das Frühstück war an diesem Morgen gefühlt noch früher. Vielleicht war die Nacht aber auch einfach nur zu kurz. Wie dem auch sei: Die Gäste würden schon bald anreisen und die Zimmer mussten auch noch leergeräumt und die Schlüsselkarten abgegeben werden. In der Halle liefen schon bald die ersten Vorbereitungen für das Freundschaftsspiel gegen die SKG Rolling Chocolate. Das Kampfgericht musste aufgebaut werden und natürlich durfte die shot-clock nicht fehlen. Auch wollten wir einen livestream bereitstellen, damit auch unsere Angehörigen und nicht mitgereisten Team-Mitglieder/innen zu Hause das Spiel mitverfolgen konnten. (Das Spiel findet ihr [hier](https://fb.watch/kTianr3HuW/)).
 
 Das Spiel war wirklich spannend und zumindest bis zur Halbzeitpause sehr ausgeglichen. Die Schlussphase konnten die Heidelberger aber deutlich für sich behaupten. Das schnelle Transition-Game und die Überlegenheit im Detail zeichneten dieses Team und ihre erfahrene Trainerin aus. Ein Sieg, den wir neidlos anerkennen mussten. und ein Spiel, aus dem wir in der Nachbereitung bestimmt vieles für uns lernen können. Vielen Dank für diese Möglichkeit und wir freuen uns auf ein Wiedersehen.
 
 Das gilt auch für die Manfred-Sauer-Stiftung. Wir möchten uns an dieser Stelle sehr herzlich für die tolle Gastfreundschaft, die absolut einfache und problemlose Planung, die Unterstützung vor Ort und das tolle Essen bedanken. Wir haben uns sehr wohl gefühlt und freuen uns auf ein nächstes Mal, hoffentlich schon 2024.. Für unsere Mannschaft steht nämlich schon fest: „Das müssen wir auf jeden Fall wiederholen. Dann gerne auch länger als ein Wochenende“
+
+![](/img/news/20230526-_dsc5551.jpg)
+
+![](/img/news/20230526-_dsc5129.jpg)
+
+![](/img/news/20230526-_dsc5576.jpg)
+
+![](/img/news/20230526-_dsc6051.jpg)
+
+![](/img/news/20230527-_dsc6791.jpg)
+
+![](/img/news/20230527-_dsc6480.jpg)
+
+![](/img/news/20230528-_dsc8106-2-.jpg)
+
+![](/img/news/20230527-_dsc6840.jpg)
+
+![](/img/news/20230527-_dsc6942.jpg)
+
+![](/img/news/20230527-_dsc6959.jpg)
+
+![](/img/news/20230528-_dsc7637.jpg)
+
+![](/img/news/20230528-_dsc7805.jpg)
+
+![](/img/news/20230528-_dsc7951.jpg)
