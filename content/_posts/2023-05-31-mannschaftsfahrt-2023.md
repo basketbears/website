@@ -48,6 +48,8 @@ Das gilt auch für die Manfred-Sauer-Stiftung. Wir möchten uns an dieser Stelle
 
 ![](/img/news/20230527-_dsc6480.jpg)
 
+![](/img/news/20230528-_dsc8106-2-.jpg)
+
 ![](/img/news/20230527-_dsc6840.jpg)
 
 ![](/img/news/20230527-_dsc6942.jpg)
