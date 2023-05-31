@@ -28,7 +28,7 @@ Nach einem wirklich fordernden Nachmittag, ließen wir es nach dem Abendessen et
 
 Um 21:00 hieß es dann „Cool-down“ auf dem Kaiserring. Ein 500m langer Handbike- und Rollstuhl-Rundweg auf dem Gelände der Manfred-Sauer-Stiftung.  Lockeres Ausfahren in den Aktivrollstühlen bzw. zu Fuß war ein guter Abschluss eines langen sportlichen Tages, bevor  wir zum Duschen und im Anschluss zum geselligen Teil des Abends übergingen. - Einen Bericht zu den teils lückenhaften Erinnerungen an diesen Abend lassen wir an dieser Stelle einmal aus 😊 - Nein, so schlimm war es natürlich nicht. Schließlich mussten wir am nächsten Tag wieder fit sein, wenn wir gegen die heimischen Gäste der Heidelberger Mannschaft eine Chance haben wollten. 
 
- **Sonntag, 28.05.2023:**
+**Sonntag, 28.05.2023:**
 
 Das Frühstück war an diesem Morgen gefühlt noch früher. Vielleicht war die Nacht aber auch einfach nur zu kurz. Wie dem auch sei: Die Gäste würden schon bald anreisen und die Zimmer mussten auch noch leergeräumt und die Schlüsselkarten abgegeben werden. In der Halle liefen schon bald die ersten Vorbereitungen für das Freundschaftsspiel gegen die SKG Rolling Chocolate. Das Kampfgericht musste aufgebaut werden und natürlich durfte die shot-clock nicht fehlen. Auch wollten wir einen livestream bereitstellen, damit auch unsere Angehörigen und nicht mitgereisten Team-Mitglieder/innen zu Hause das Spiel mitverfolgen konnten. (Das Spiel findet ihr [hier](https://fb.watch/kTianr3HuW/)).
 
