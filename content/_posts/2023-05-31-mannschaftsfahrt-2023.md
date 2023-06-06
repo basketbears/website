@@ -7,6 +7,20 @@ author: Sven Kaiser
 hero_image: /img/news/mannschaftsbild-lobbach-header.jpg
 image: /img/news/mannschaftsbild-lobbach-pre.jpg
 image_source: Patrick Weirauch
+gallery:
+  - image: https://www.basketbears.de/img/news/20230528-_dsc7637.jpg
+  - image: https://www.basketbears.de/img/news/20230527-_dsc6480.jpg
+  - image: https://www.basketbears.de/img/news/20230526-_dsc6051.jpg
+  - image: https://www.basketbears.de/img/news/20230527-_dsc6791.jpg
+  - image: https://www.basketbears.de/img/news/20230527-_dsc6959.jpg
+  - image: https://www.basketbears.de/img/news/20230527-_dsc6840.jpg
+  - image: https://www.basketbears.de/img/news/20230527-_dsc6942.jpg
+  - image: https://www.basketbears.de/img/news/20230526-_dsc5576.jpg
+  - image: https://www.basketbears.de/img/news/20230526-_dsc5129.jpg
+  - image: https://www.basketbears.de/img/news/20230528-_dsc7805.jpg
+  - image: https://www.basketbears.de/img/news/20230528-_dsc7951.jpg
+  - image: https://www.basketbears.de/img/news/20230526-_dsc5551.jpg
+  - image: https://www.basketbears.de/img/news/20230528-_dsc8106-2-.jpg
 ---
 **Freitag, 26.05.2023:**
 
