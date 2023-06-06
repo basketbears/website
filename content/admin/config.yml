@@ -122,6 +122,13 @@ collections:
       - {label: "Bildquelle", name: "image_source", widget: "string", required: false}
       - {label: "Spieler", name: "players", widget: "list", required: false}
       - {label: "Coach", name: "coach", widget: "string", required: false}
+      - label: "Gallerie"
+        name: "gallery"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Bild", name: "image", widget: "image"}
+          - {label: "Titel", name: "title", widget: "string"}
       - *body-field
 
   - label: "Konfiguration"
