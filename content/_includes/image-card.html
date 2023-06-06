@@ -1,0 +1,20 @@
+{% assign modalId=include.link | slugify %}
+<div
+  class="card image-card is-size-6-mobile is-size-5"
+  id="{{modalId}}"
+  markdown="0"
+  onclick="toggleModal('{{modalId}}')" 
+  {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
+>
+    <a id="{{modalId}}">
+      <img src="{{ include.link }}" alt="{{ include.alt }}">
+    </a>
+    {% if include.title != null %}
+    <footer class="card-footer">
+      <span class="card-footer-item player-name">
+        {{include.title}}
+      </span>
+    </footer>
+    {% endif %}
+</div>
+{% include image-modal.html link=include.link title=include.title %}

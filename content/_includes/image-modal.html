@@ -1,19 +1,20 @@
-{% assign id=include.link | slugify %}
-<div markdown="0">
-  <a onclick="toggleModal('{{id}}')" id="{{id}}" title="View large image">
-      <figure class="image {{ include.ratio | default: is-16by9 }}">
-          <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
-      </figure>
-  </a>
-  <div class="modal" id="{{id}}" onclick="toggleModal('{{id}}')">
-      <div class="modal-background"></div>
-      <div class="modal-card image-modal">
-          {% if include.large_link %}
-              <img loading="lazy" src="{{ include.large_link | absolute_url }}" alt="{{ include.alt }}">
-          {% else %}
-              <img loading="lazy" src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
-          {% endif %}
-      </div>
-      <button class="modal-close is-large" aria-label="close" onclick="toggleModal('{{id}}')"></button>
+{% assign modalId=include.link | slugify %}
+<div class="modal" id="{{modalId}}" onclick="toggleModal('{{modalId}}')" markdown="0">
+  <div class="modal-background"></div>
+  <div
+    class="modal-card image-modal"
+    {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
+  >
+    <section class="modal-card-body" markdown="0">
+      <img loading="lazy" src="{{ include.link | absolute_url }}" alt="{{ include.title }}">
+    </section>
+    {% if include.title != null %}
+    <footer class="modal-card-foot">
+      <span class="card-footer-item player-name">
+        {{include.title}}
+      </span>
+    </footer>
+    {% endif %}
   </div>
+  <button class="modal-close is-large" aria-label="close"></button>
 </div>
