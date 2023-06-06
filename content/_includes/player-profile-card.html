@@ -1,7 +1,7 @@
 {% assign player=site.data.people[include.playerId] %}
 {% assign modalId=player.playerInfo.cardImage | append: '-' | append: include.number | slugify %}
 <div
-  class="card player-card player-profile-card is-size-6-mobile is-size-5"
+  class="card player-card image-card is-size-6-mobile is-size-5"
   id="{{modalId}}"
   markdown="0"
   onclick="toggleModal('{{modalId}}')" 
