@@ -126,6 +126,7 @@ collections:
         name: "gallery"
         widget: "list"
         required: false
+        label_singular: "Bild"
         fields:
           - {label: "Bild", name: "image", widget: "image"}
           - {label: "Titel", name: "title", widget: "string", required: false}
