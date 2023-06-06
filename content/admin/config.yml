@@ -128,7 +128,7 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image"}
-          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Titel", name: "title", widget: "string", required: false}
       - *body-field
 
   - label: "Konfiguration"
