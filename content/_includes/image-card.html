@@ -7,7 +7,7 @@
   {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
 >
     <a id="{{modalId}}">
-      <img src="{{ include.link }}" alt="{{ include.alt }}">
+      <img loading="lazy" src="{{ include.link }}" alt="{{ include.alt }}">
     </a>
     {% if include.title != null %}
     <footer class="card-footer">
