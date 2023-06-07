@@ -87,6 +87,29 @@ $primary: {{site.theme_color}};
   object-fit: contain;
 }
 
+.image-card {
+  cursor: pointer;
+  transition: transform 100ms, box-shadow 100ms;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.2), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+
+  &:hover, &.is-active {
+    transform: scale(1.05);
+    box-shadow: 0 0.5em 1.5em 0 rgba(10, 10, 10, 0.3), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+  }
+
+  img {
+    aspect-ratio: 1.5;
+    object-fit: cover;
+  }
+
+  .card-footer-item {
+    padding: 0.5rem 0.75rem;
+    @include mobile {
+      padding: 0.5rem 0.5rem;
+    }
+  }
+}
+
 $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,238,238,1) 50%, rgba(178,187,207,1) 100%);
 .player-card {
   --card-background: #111171;
@@ -119,28 +142,6 @@ $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,2
   }
 }
 
-.player-modal {
-  width: auto;
-  border-radius: 1rem !important;
-
-  .modal-card-body {
-    background: $player-card-gradient;
-    img {
-      width: calc((100vh - 120px) * 0.8);
-    }
-  }
-  .player-number {
-    padding: 0.25rem 0.5rem;
-    font-size: 1.5rem;
-    top: 0px;
-    left: 0px;
-    position: absolute;
-    border-bottom-right-radius: 1rem;
-    background-color: var(--card-background);
-    font-weight: bold;
-  }
-}
-
 .image-modal {
   font-size: 1.5rem;
   border-radius: 0.25rem;
@@ -162,26 +163,25 @@ $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,2
   }
 }
 
-.image-card {
-  cursor: pointer;
-  transition: transform 100ms, box-shadow 100ms;
-  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.2), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+.player-modal {
+  width: auto;
+  border-radius: 1rem !important;
 
-  &:hover, &.is-active {
-    transform: scale(1.05);
-    box-shadow: 0 0.5em 1.5em 0 rgba(10, 10, 10, 0.3), 0 0px 0 1px rgba(10, 10, 10, 0.02);
-  }
-
-  img {
-    aspect-ratio: 1.5;
-    object-fit: cover;
-  }
-
-  .card-footer-item {
-    padding: 0.5rem 0.75rem;
-    @include mobile {
-      padding: 0.5rem 0.5rem;
+  .modal-card-body {
+    background: $player-card-gradient;
+    img {
+      width: calc((100vh - 120px) * 0.8);
     }
+  }
+  .player-number {
+    padding: 0.25rem 0.5rem;
+    font-size: 1.5rem;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    border-bottom-right-radius: 1rem;
+    background-color: var(--card-background);
+    font-weight: bold;
   }
 }
 
