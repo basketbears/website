@@ -1,12 +1,12 @@
 ---
 layout: columns
-title: Landesliga
+title: Ligabetrieb
 ---
-
 <div class="column is-12" markdown="1">
-Hier findest du alle Informationen über unsere aktuelle Saison in der Landesliga. Verfolge die Basket Bears auf ihren nächsten Spieltagen und werfe einen Blick auf die aktuelle Tabelle. Ausführliche Spielberichte findest du im [**News Bereich**](/news)
+Hier findest du alle Informationen über unsere aktuelle Saison. Verfolge die Basket Bears auf ihren nächsten Spieltagen und werfe einen Blick auf die aktuelle Tabelle. Ausführliche Spielberichte findest du im \[\*\*News Bereich\*\*](/news)
 
 ## Spielplan und Tabelle im Überblick
+
 </div>
 
 <div class="column is-12-mobile is-6-tablet is-5-desktop">
