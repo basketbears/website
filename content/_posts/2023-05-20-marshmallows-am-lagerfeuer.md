@@ -6,7 +6,7 @@ summary: Basket Bears feiern Saisonabschluss und müssen Auf Wiedersehen sagen.
 author: Sven Kaiser
 hero_image: /img/news/header.jpg
 image: /img/news/preview.jpg
-image_source: Sven Kaiser
+image_source: Basket Bears Krefeld
 ---
 Heute hieß es feiern und gemeinsam die Zeit genießen. Den Liga-Einstieg, den Erfolg der Mannschaft und den Aufstieg in die Oberliga.
 Ein extrem spannendes Jahr liegt hinter uns. Die erste Liga-Saison war gerade beendet und unsere noch junge Mannschaft hatte sich über die Jahre zu einer soliden und harmonischen Gemeinschaft entwickelt. Die gemeinsamen Aktivitäten der vergangenen Monate, die Spieltage und nicht zuletzt die Mannschaftsfahrt im Mai haben uns einmal mehr gezeigt, dass ein Basket Bear zu sein viel mehr war, als Trainingsteilnahme und Pflichtspiele.
