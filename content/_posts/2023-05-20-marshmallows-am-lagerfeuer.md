@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-20
+date: 2023-06-03
 title: Marshmallows am Lagerfeuer
 summary: Basket Bears feiern Saisonabschluss und müssen Auf Wiedersehen sagen.
 author: Sven Kaiser
