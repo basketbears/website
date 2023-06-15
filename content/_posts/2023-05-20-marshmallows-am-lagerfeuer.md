@@ -14,7 +14,7 @@ Am Samstag war einmal mehr die Gelegenheit, das zu zeigen. Das Sommerfest sollte
 
 Bei tollen Wetter, leckeren Salaten und frisch Gegrilltem, hatten wir einen wundervollen Abend. Vielen Dank für die Organisation. Wir werden euch Beide sehr vermissen und wünschen euch eine spannende und unvergessliche Zeit. Kommt vor allem gesund und hoffentlich bald  zurück!
 
-Das Libanon Projekt der Gemeinschaft junger Malteser…
+**Das Libanon Projekt der Gemeinschaft junger Malteser…**
 nimmt sich seit über 20 Jahren dem Schicksal von Menschen mit Behinderung im Libanon an. Gegründet wurde dieses extrem wichtige und herzergreifende Projekt von Franziskus Heereman (Johannes Vater) und war seitdem eine Herzensangelegenheit. Im Rahmen dieses Projektes werden unsere beiden Spieler ein Jahr lang Menschen mit Behinderung in Heimen betreuen. 
 Wir finden, dass dieses Projekt mehr Aufmerksamkeit verdient und laden euch ein, mehr darüber zu erfahren, wie und wo sich Johannes und Jakobus in den nächsten Monaten engagieren:
 
