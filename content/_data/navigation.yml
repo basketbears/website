@@ -5,8 +5,8 @@
   dropdown:
     - name: Das Team
       link: /erstemannschaft/team/
-    - name: Landesliga
-      link: /erstemannschaft/landesliga/
+    - name: Ligabetrieb
+      link: /erstemannschaft/ligabetrieb/
 - name: Verein
   link: /verein/
 - name: News
