@@ -1,6 +1,7 @@
 {% assign modalId="post-gallery" | slugify %}
 <div class="columns is-multiline" style="display: flex">
     {% for image in page.gallery %}
+    {% assign img_url = '/content' | append: image.image %}
     <div class="column is-3-widescreen is-4-desktop is-4-tablet is-6-mobile">
       <div
         class="card image-card is-size-6-mobile is-size-5"
@@ -10,6 +11,7 @@
           <a href="#{{image.image | slugify}}">
             <img loading="lazy" src="{{ image.image }}" alt="{{ image.alt }}">
           </a>
+          {% imagesize img_url %}  
           {% if image.title != null %}
           <footer class="card-footer">
             <span class="card-footer-item player-name">
@@ -42,3 +44,27 @@
   </div>
   <button class="modal-close is-large" aria-label="close"></button>
 </div>
+
+{% for image in page.gallery %}
+{% assign img_url = '/content' | append: image.image %}
+{% assign img_width = imagesize img_url %}
+<div class="photoswipe-gallery">
+  {% include photo.html
+      url=image.image
+      full_width="{{img_width}}"
+      full_height="600"
+      caption="Caption will show when the photo is enlarged" alt="Alt shows if the photo cannot be shown"
+  %}
+</div>
+{% endfor %}
+
+
+
+<!-- Javascript scripts only... these go at the bottom of the HTML page -->
+<script
+  child-selector=".photoswipe"
+  class="photoswipe-activation"
+  gallery-selector=".photoswipe-gallery"
+  src="/assets/js/activate_photoswipe.js"
+  type="module"
+></script>
