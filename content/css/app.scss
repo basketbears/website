@@ -146,17 +146,13 @@ $player-card-gradient: linear-gradient(99deg, rgba(178,187,207,1) 0%, rgba(235,2
   font-size: 1.5rem;
   border-radius: 0.25rem;
   width: auto;
+  overflow: visible;
 
   $modal-card-spacing: 0;
   .modal-card-body {
     padding: 0;
     margin: 0;
     display: flex;
-    img {
-      max-height: calc(100vh - 120px);
-      max-width: calc(100vw - 40px);
-      min-width: 100%;
-    }
   }
   footer {
     padding: 0.25rem;
@@ -242,3 +238,51 @@ section.section {
   }
 }
 
+.image-slider-wrapper {
+  position: relative;
+  // max-width: 48rem;
+  margin: 0 auto;
+
+  max-height: calc(100vh - 120px);
+  max-width: calc(100vw - 40px);
+  min-width: 100%;
+  background: none;
+  overflow: inherit;
+}
+
+.image-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: auto;
+
+  img {
+    flex: 1 0 100%;
+    scroll-snap-align: start;
+  }
+}
+/*
+.image-slider-nav {
+  display: flex;
+  column-gap: 1rem;
+  position: absolute;
+  bottom: -1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+
+  a {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background-color: #ffffff;
+    opacity: 0.25;
+    transition: opacity ease 250ms;
+    &:target {
+      opacity: 1;
+    }
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+*/
