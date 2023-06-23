@@ -6,7 +6,7 @@
     {% if include.background != null %}style="--card-background: {{include.background}}"{% endif %}
   >
     <section class="modal-card-body" markdown="0">
-      <img loading="lazy" src="{{ include.link | absolute_url }}" alt="{{ include.title }}">
+      <img loading="lazy" src="{{ include.link }}" alt="{{ include.title }}">
     </section>
     {% if include.title != null %}
     <footer class="modal-card-foot">
