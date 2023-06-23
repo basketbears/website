@@ -52,9 +52,9 @@ collections:
           - *layout-field
           - *title-field
           - *body-field
-      - label: "1. Mannschaft > Landesliga"
-        name: erstemannschaft-landesliga
-        file: "content/erstemannschaft/landesliga.md"
+      - label: "1. Mannschaft > Ligabetrieb"
+        name: erstemannschaft-ligabetrieb
+        file: "content/erstemannschaft/ligabetrieb.md"
         fields:
           - *layout-field
           - *title-field
