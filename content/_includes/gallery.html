@@ -1,7 +1,70 @@
+{% assign modalId="post-gallery" | slugify %}
 <div class="columns is-multiline" style="display: flex">
     {% for image in page.gallery %}
+    {% assign img_url = '/content' | append: image.image %}
     <div class="column is-3-widescreen is-4-desktop is-4-tablet is-6-mobile">
-      {% include image-card.html link=image.image title=image.title %}
+      <div
+        class="card image-card is-size-6-mobile is-size-5"
+        markdown="0"
+        onclick="toggleModal('{{modalId}}')" 
+      >
+          <a href="#{{image.image | slugify}}">
+            <img loading="lazy" src="{{ image.image }}" alt="{{ image.alt }}">
+          </a>
+          {% imagesize img_url %}  
+          {% if image.title != null %}
+          <footer class="card-footer">
+            <span class="card-footer-item player-name">
+              {{image.title}}
+            </span>
+          </footer>
+          {% endif %}
+      </div>
     </div>
     {% endfor %}
 </div>
+
+<div class="modal" id="{{modalId}}" markdown="0">
+  <div class="modal-background" onclick="toggleModal('{{modalId}}', true)"></div>
+  <div class="modal-card image-modal">
+    <section class="modal-card-body image-slider-wrapper" markdown="0">
+      <div class="image-slider" onclick="toggleModal('{{modalId}}', true)">
+        {% for image in page.gallery %}
+          <img id="{{image.image | slugify}}" loading="lazy" src="{{ image.image | absolute_url }}" alt="{{ image.title }}">
+        {% endfor %}
+      </div>
+    </section>
+    {% if image.title != null %}
+    <footer class="modal-card-foot">
+      <span class="card-footer-item player-name">
+        {{image.title}}
+      </span>
+    </footer>
+    {% endif %}
+  </div>
+  <button class="modal-close is-large" aria-label="close"></button>
+</div>
+
+{% for image in page.gallery %}
+{% assign img_url = '/content' | append: image.image %}
+{% assign img_width = imagesize img_url %}
+<div class="photoswipe-gallery">
+  {% include photo.html
+      url=image.image
+      full_width="{{img_width}}"
+      full_height="600"
+      caption="Caption will show when the photo is enlarged" alt="Alt shows if the photo cannot be shown"
+  %}
+</div>
+{% endfor %}
+
+
+
+<!-- Javascript scripts only... these go at the bottom of the HTML page -->
+<script
+  child-selector=".photoswipe"
+  class="photoswipe-activation"
+  gallery-selector=".photoswipe-gallery"
+  src="/assets/js/activate_photoswipe.js"
+  type="module"
+></script>
