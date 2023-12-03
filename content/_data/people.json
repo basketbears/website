@@ -270,5 +270,39 @@
       "bonuses": [],
       "totalPoints": 1.0
     }
+  },
+  "patrick1-0": {
+    "firstName": "Patrick",
+    "lastName": "Kloppisch",
+    "displayName": "Patrick K.",
+    "profileImage": "/img/people/patrick1-0/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 32,
+      "cardImage": "/img/people/patrick1-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/patrick1-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/patrick1-0/profile_128.webp",
+      "isDisabled": true,
+      "basePoints": 3.0,
+      "bonuses": [],
+      "totalPoints": 3.0
+    }
+  },
+  "sascha0-0": {
+    "firstName": "Sascha",
+    "lastName": "Lenders",
+    "displayName": "Sascha L.",
+    "profileImage": "/img/people/sascha0-0/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 18,
+      "cardImage": "/img/people/sascha0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/sascha0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/sascha0-0/profile_128.webp",
+      "isDisabled": false,
+      "basePoints": 4.5,
+      "bonuses": [],
+      "totalPoints": 4.5
+    }
   }
 }
