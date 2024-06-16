@@ -3,12 +3,6 @@ layout: columns
 title: Basket Bears Krefeld
 ---
 
-<div class="column is-12" markdown="1" style="text-align: center; border: 2px solid #ff7a00; border-radius: 2rem; background-color: #e5969629">
-
-## Wir sind live!
-### [Hier geht's zum Livestream von unserem aktuellen Spieltag!](https://https://youtu.be/MyYDJlgOw_I)
-</div>
-
 <div class="column is-6" markdown="1">
 
 #### Trainingszeiten
