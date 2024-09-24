@@ -12,8 +12,8 @@
       "tagImage": "/img/people/richard0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 1,
-      "bonuses": ["beginner"],
-      "totalPoints": 0
+      "bonuses": [],
+      "totalPoints": 1
     }
   },
   "jana0-0": {
@@ -29,8 +29,8 @@
       "tagImage": "/img/people/jana0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 3,
-      "bonuses": ["woman", "beginner"],
-      "totalPoints": 1
+      "bonuses": ["woman"],
+      "totalPoints": 1.5
     }
   },
   "johannes0-0": {
@@ -63,8 +63,8 @@
       "tagImage": "/img/people/sven0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 2.5,
-      "bonuses": ["beginner"],
-      "totalPoints": 1.5
+      "bonuses": [],
+      "totalPoints": 2.5
     }
   },
   "jill0-0": {
@@ -97,8 +97,8 @@
       "tagImage": "/img/people/linda0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 3,
-      "bonuses": ["woman", "beginner"],
-      "totalPoints": 1
+      "bonuses": ["woman"],
+      "totalPoints": 1.5
     }
   },
   "anna0-0": {
@@ -148,8 +148,8 @@
       "tagImage": "/img/people/yannik0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 2.5,
-      "bonuses": ["beginner"],
-      "totalPoints": 1.5
+      "bonuses": [],
+      "totalPoints": 2.5
     }
   },
   "jakobus0-0": {
@@ -182,8 +182,8 @@
       "tagImage": "/img/people/robin0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 2,
-      "bonuses": ["beginner"],
-      "totalPoints": 1
+      "bonuses": [],
+      "totalPoints": 2
     }
   },
   "heiko0-0": {
@@ -233,8 +233,8 @@
       "tagImage": "/img/people/mike0-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 2.5,
-      "bonuses": ["beginner"],
-      "totalPoints": 1.5
+      "bonuses": [],
+      "totalPoints": 2.5
     }
   },
   "sven1-0": {
@@ -250,8 +250,8 @@
       "tagImage": "/img/people/sven1-0/profile_128.webp",
       "isDisabled": true,
       "basePoints": 3,
-      "bonuses": ["beginner"],
-      "totalPoints": 2
+      "bonuses": [],
+      "totalPoints": 3
     }
   },
   "patrick0-0": {
@@ -303,6 +303,57 @@
       "basePoints": 4.5,
       "bonuses": [],
       "totalPoints": 4.5
+    }
+  },
+  "martha0-0": {
+    "firstName": "Martha",
+    "lastName": "Schuren",
+    "displayName": "Martha S.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 24,
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/placeholder/profile_128.webp",
+      "isDisabled": true,
+      "basePoints": 2.5,
+      "bonuses": ["woman"],
+      "totalPoints": 1.0
+    }
+  },
+  "luis0-0": {
+    "firstName": "Luis",
+    "lastName": "Trenk",
+    "displayName": "Luis T.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 16,
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/placeholder/profile_128.webp",
+      "isDisabled": true,
+      "basePoints": 4.0,
+      "bonuses": [],
+      "totalPoints": 4.0
+    }
+  },
+  "ahmed0-0": {
+    "firstName": "Ahmed",
+    "lastName": "Alou",
+    "displayName": "Ahmed A.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 4,
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/placeholder/profile_128.webp",
+      "isDisabled": true,
+      "basePoints": 1.5,
+      "bonuses": ["youth"],
+      "totalPoints": 0.5
     }
   }
 }
