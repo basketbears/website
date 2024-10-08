@@ -9,11 +9,7 @@
       "number": 3,
       "cardImage": "/img/people/richard0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/richard0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/richard0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 1,
-      "bonuses": [],
-      "totalPoints": 1
+      "tagImage": "/img/people/richard0-0/profile_128.webp"
     }
   },
   "jana0-0": {
@@ -26,11 +22,7 @@
       "number": 4,
       "cardImage": "/img/people/jana0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/jana0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/jana0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 3,
-      "bonuses": ["woman"],
-      "totalPoints": 1.5
+      "tagImage": "/img/people/jana0-0/profile_128.webp"
     }
   },
   "johannes0-0": {
@@ -43,11 +35,7 @@
       "number": 6,
       "cardImage": "/img/people/johannes0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/johannes0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/johannes0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 4,
-      "bonuses": [],
-      "totalPoints": 4
+      "tagImage": "/img/people/johannes0-0/profile_128.webp"
     }
   },
   "sven0-0": {
@@ -60,11 +48,7 @@
       "number": 7,
       "cardImage": "/img/people/sven0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/sven0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/sven0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 2.5,
-      "bonuses": [],
-      "totalPoints": 2.5
+      "tagImage": "/img/people/sven0-0/profile_128.webp"
     }
   },
   "jill0-0": {
@@ -77,11 +61,7 @@
       "number": 8,
       "cardImage": "/img/people/jill0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/jill0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/jill0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 3,
-      "bonuses": ["woman"],
-      "totalPoints": 1.5
+      "tagImage": "/img/people/jill0-0/profile_128.webp"
     }
   },
   "linda0-0": {
@@ -94,11 +74,7 @@
       "number": 9,
       "cardImage": "/img/people/linda0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/linda0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/linda0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 3,
-      "bonuses": ["woman"],
-      "totalPoints": 1.5
+      "tagImage": "/img/people/linda0-0/profile_128.webp"
     }
   },
   "anna0-0": {
@@ -111,11 +87,7 @@
       "number": 10,
       "cardImage": "/img/people/anna0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/anna0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/anna0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": ["woman"],
-      "totalPoints": 3
+      "tagImage": "/img/people/anna0-0/profile_128.webp"
     }
   },
   "philippe0-0": {
@@ -128,11 +100,7 @@
       "number": 11,
       "cardImage": "/img/people/philippe0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/philippe0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/philippe0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": [],
-      "totalPoints": 4.5
+      "tagImage": "/img/people/philippe0-0/profile_128.webp"
     }
   },
   "yannik0-0": {
@@ -145,11 +113,7 @@
       "number": 12,
       "cardImage": "/img/people/yannik0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/yannik0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/yannik0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 2.5,
-      "bonuses": [],
-      "totalPoints": 2.5
+      "tagImage": "/img/people/yannik0-0/profile_128.webp"
     }
   },
   "jakobus0-0": {
@@ -162,11 +126,7 @@
       "number": 15,
       "cardImage": "/img/people/jakobus0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/jakobus0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/jakobus0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": [],
-      "totalPoints": 4.5
+      "tagImage": "/img/people/jakobus0-0/profile_128.webp"
     }
   },
   "robin0-0": {
@@ -179,11 +139,7 @@
       "number": 19,
       "cardImage": "/img/people/robin0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/robin0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/robin0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 2,
-      "bonuses": [],
-      "totalPoints": 2
+      "tagImage": "/img/people/robin0-0/profile_128.webp"
     }
   },
   "heiko0-0": {
@@ -196,11 +152,7 @@
       "number": 21,
       "cardImage": "/img/people/heiko0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/heiko0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/heiko0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": [],
-      "totalPoints": 4.5
+      "tagImage": "/img/people/heiko0-0/profile_128.webp"
     }
   },
   "andre0-0": {
@@ -211,13 +163,9 @@
     "isPlayer": true,
     "playerInfo": {
       "number": 22,
-      "cardImage": "/img/people/andre0-0/playerprofile.webp",
-      "cardImagePreview": "/img/people/andre0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/andre0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": [],
-      "totalPoints": 4.5
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/andre0-0/profile_128.webp"
     }
   },
   "mike0-0": {
@@ -230,11 +178,7 @@
       "number": 25,
       "cardImage": "/img/people/mike0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/mike0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/mike0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 2.5,
-      "bonuses": [],
-      "totalPoints": 2.5
+      "tagImage": "/img/people/mike0-0/profile_128.webp"
     }
   },
   "sven1-0": {
@@ -247,11 +191,7 @@
       "number": 26,
       "cardImage": "/img/people/sven1-0/playerprofile.webp",
       "cardImagePreview": "/img/people/sven1-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/sven1-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 3,
-      "bonuses": [],
-      "totalPoints": 3
+      "tagImage": "/img/people/sven1-0/profile_128.webp"
     }
   },
   "patrick0-0": {
@@ -264,11 +204,7 @@
       "number": 14,
       "cardImage": "/img/people/patrick0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/patrick0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/patrick0-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 1.0,
-      "bonuses": [],
-      "totalPoints": 1.0
+      "tagImage": "/img/people/patrick0-0/profile_128.webp"
     }
   },
   "patrick1-0": {
@@ -281,11 +217,7 @@
       "number": 32,
       "cardImage": "/img/people/patrick1-0/playerprofile.webp",
       "cardImagePreview": "/img/people/patrick1-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/patrick1-0/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 3.0,
-      "bonuses": [],
-      "totalPoints": 3.0
+      "tagImage": "/img/people/patrick1-0/profile_128.webp"
     }
   },
   "sascha0-0": {
@@ -298,11 +230,7 @@
       "number": 18,
       "cardImage": "/img/people/sascha0-0/playerprofile.webp",
       "cardImagePreview": "/img/people/sascha0-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/sascha0-0/profile_128.webp",
-      "isDisabled": false,
-      "basePoints": 4.5,
-      "bonuses": [],
-      "totalPoints": 4.5
+      "tagImage": "/img/people/sascha0-0/profile_128.webp"
     }
   },
   "martha0-0": {
@@ -315,11 +243,7 @@
       "number": 24,
       "cardImage": "/img/people/placeholder/playerprofile.webp",
       "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 2.5,
-      "bonuses": ["woman"],
-      "totalPoints": 1.0
+      "tagImage": "/img/people/placeholder/profile_128.webp"
     }
   },
   "luis0-0": {
@@ -332,11 +256,7 @@
       "number": 16,
       "cardImage": "/img/people/placeholder/playerprofile.webp",
       "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 4.0,
-      "bonuses": [],
-      "totalPoints": 4.0
+      "tagImage": "/img/people/placeholder/profile_128.webp"
     }
   },
   "ahmed0-0": {
@@ -349,11 +269,33 @@
       "number": 4,
       "cardImage": "/img/people/placeholder/playerprofile.webp",
       "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp",
-      "isDisabled": true,
-      "basePoints": 1.5,
-      "bonuses": ["youth"],
-      "totalPoints": 0.5
+      "tagImage": "/img/people/placeholder/profile_128.webp"
+    }
+  },
+  "jarne0-0": {
+    "firstName": "Jarne",
+    "lastName": "Schneider",
+    "displayName": "Jarne S.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 5,
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/placeholder/profile_128.webp"
+    }
+  },
+  "sylvester0-0": {
+    "firstName": "Sylvester",
+    "lastName": "von Heereman",
+    "displayName": "Sylvester v. H.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 2,
+      "cardImage": "/img/people/placeholder/playerprofile.webp",
+      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "tagImage": "/img/people/placeholder/profile_128.webp"
     }
   }
 }

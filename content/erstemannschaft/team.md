@@ -30,7 +30,7 @@ title: 1. Mannschaft
     <div class="column is-12" style="flex: none; width: 100%">
       <p class="title is-3 has-text-centered">Spieler</p>
     </div>
-    {% assign ersteMannschaft = "richard0-0,ahmed0-0,yannik0-0,patrick0-0,luis0-0,sascha0-0,robin0-0,heiko0-0,martha0-0,mike0-0,sven1-0,patrick1-0" | split: ',' %}
+    {% assign ersteMannschaft = "sylvester0-0,richard0-0,ahmed0-0,jarne0-0,yannik0-0,patrick0-0,luis0-0,sascha0-0,robin0-0,heiko0-0,andre0-0,martha0-0,mike0-0,sven1-0,patrick1-0" | split: ',' %}
     {% for playerId in ersteMannschaft %}
       <div class="{{player-columns}}">
         {% include player-profile-card.html playerId=playerId %}
