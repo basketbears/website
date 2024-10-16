@@ -156,9 +156,9 @@
     }
   },
   "andre0-0": {
-    "firstName": "André",
+    "firstName": "Andre",
     "lastName": "Kostka",
-    "displayName": "André K.",
+    "displayName": "Andre K.",
     "profileImage": "/img/people/andre0-0/profile_128.webp",
     "isPlayer": true,
     "playerInfo": {
