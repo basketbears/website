@@ -1,5 +1,5 @@
 {% assign player=site.data.people[include.playerId] %}
-{% assign modalId=player.playerInfo.cardImage | append: '-' | append: include.number | slugify %}
+{% assign modalId=include.playerId | append: '-' | append: include.number | slugify %}
 <div class="modal" id="{{modalId}}" onclick="toggleModal('{{modalId}}')" markdown="0">
   <div class="modal-background"></div>
   <div

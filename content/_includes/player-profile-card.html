@@ -1,5 +1,5 @@
 {% assign player=site.data.people[include.playerId] %}
-{% assign modalId=player.playerInfo.cardImage | append: '-' | append: include.number | slugify %}
+{% assign modalId=include.playerId | append: '-' | append: include.number | slugify %}
 <div
   class="card player-card image-card is-size-6-mobile is-size-5"
   id="{{modalId}}"
