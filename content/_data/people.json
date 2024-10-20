@@ -250,13 +250,13 @@
     "firstName": "Luis",
     "lastName": "Trenk",
     "displayName": "Luis T.",
-    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "profileImage": "/img/people/luis0-0/profile_128.webp",
     "isPlayer": true,
     "playerInfo": {
       "number": 16,
-      "cardImage": "/img/people/placeholder/playerprofile.webp",
-      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp"
+      "cardImage": "/img/people/luis0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/luis0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/luis0-0/profile_128.webp"
     }
   },
   "ahmed0-0": {
@@ -276,13 +276,13 @@
     "firstName": "Jarne",
     "lastName": "Schneider",
     "displayName": "Jarne S.",
-    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "profileImage": "/img/people/jarne0-0/profile_128.webp",
     "isPlayer": true,
     "playerInfo": {
       "number": 5,
-      "cardImage": "/img/people/placeholder/playerprofile.webp",
-      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp"
+      "cardImage": "/img/people/jarne0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/jarne0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/jarne0-0/profile_128.webp"
     }
   },
   "sylvester0-0": {
