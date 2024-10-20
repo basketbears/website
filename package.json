@@ -1,0 +1,9 @@
+{
+  "name": "basketbears-website",
+  "scripts": {
+    "purgecss": "purgecss --config ./purgecss.config.js"
+  },
+  "devDependencies": {
+    "purgecss": "^5.0.0"
+  }
+}
