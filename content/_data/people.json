@@ -163,8 +163,8 @@
     "isPlayer": true,
     "playerInfo": {
       "number": 22,
-      "cardImage": "/img/people/placeholder/playerprofile.webp",
-      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
+      "cardImage": "/img/people/andre0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/andre0-0/playerprofile-preview.webp",
       "tagImage": "/img/people/andre0-0/profile_128.webp"
     }
   },
@@ -289,13 +289,13 @@
     "firstName": "Sylvester",
     "lastName": "von Heereman",
     "displayName": "Sylvester v. H.",
-    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "profileImage": "/img/people/sylvester0-0/profile_128.webp",
     "isPlayer": true,
     "playerInfo": {
       "number": 2,
-      "cardImage": "/img/people/placeholder/playerprofile.webp",
-      "cardImagePreview": "/img/people/placeholder/playerprofile-preview.webp",
-      "tagImage": "/img/people/placeholder/profile_128.webp"
+      "cardImage": "/img/people/sylvester0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/sylvester0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/sylvester0-0/profile_128.webp"
     }
   }
 }
