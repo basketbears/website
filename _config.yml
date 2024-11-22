@@ -32,6 +32,7 @@ theme_color: '#1C4586'
 theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-image-size
 
 domain: www.basketbears.de
 lang: de
