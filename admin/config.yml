@@ -1,0 +1,199 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+media_folder: "/content/img"
+public_folder: "/img"
+locale: 'de'
+
+definitions:
+  fields:
+    - layout: &layout-field
+        {label: Layout, name: layout, widget: select, options: ['default', 'page', 'columns', 'post', 'blog', 'product-category', 'product', 'recipe']}
+    - body: &body-field
+        {label: Inhalt, name: body, widget: markdown}
+#        {label: Inhalt, name: body, widget: code, default_language: markdown, output_code_only: true}
+    - title: &title-field
+        {label: "Title", name: "title", widget: "string", required: false}
+
+
+collections:
+  - label: "Seiten"
+    name: "seiten"
+    editor:
+      preview: false
+    files:
+      - label: "Home"
+        name: home
+        file: "content/index.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Jugend"
+        name: jugend
+        file: "content/jugend.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "1. Mannschaft"
+        name: erstemannschaft
+        file: "content/erstemannschaft/index.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "1. Mannschaft > Team"
+        name: erstemannschaft-team
+        file: "content/erstemannschaft/team.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "1. Mannschaft > Ligabetrieb"
+        name: erstemannschaft-ligabetrieb
+        file: "content/erstemannschaft/ligabetrieb.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Verein"
+        name: verein
+        file: "content/verein.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Kontak"
+        name: kontakt
+        file: "content/kontakt.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Partner"
+        name: partner
+        file: "content/partner.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Datenschutz"
+        name: datenschutz
+        file: "content/datenschutz.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "Impressum"
+        name: impressum
+        file: "content/impressum.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+      - label: "404"
+        name: "404"
+        file: "content/404.md"
+        fields:
+          - *layout-field
+          - *title-field
+          - *body-field
+
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/_posts" # The path to the folder where the documents are stored
+    media_folder: '/content/img/news'
+    public_folder: '{{public_folder}}/news'
+    create: true # Allow users to create new documents in this collection
+    slug: "{{date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: 'Datum', name: 'date', widget: 'datetime', date_format: true, time_format: false, format: 'YYYY-MM-DD', picker_utc: false }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Header-Bild", name: "hero_image", widget: "image"}
+      - {label: "Vorschau-Bild", name: "image", widget: "image"}
+      - {label: "Bildquelle", name: "image_source", widget: "string", required: false}
+      - {label: "Spieler", name: "players", widget: "list", required: false}
+      - {label: "Coach", name: "coach", widget: "string", required: false}
+      - label: "Gallerie"
+        name: "gallery"
+        widget: "list"
+        required: false
+        label_singular: "Bild"
+        fields:
+          - {label: "Bild", name: "image", widget: "image"}
+          - {label: "Titel", name: "title", widget: "string", required: false}
+      - *body-field
+
+  - label: "Konfiguration"
+    name: "config"
+    format: yaml-frontmatter
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: navigation
+        file: "content/_data/navigation.yml"
+        fields:
+          - {label: Inhalt, name: body, widget: code, default_language: yaml, output_code_only: true}
+
+  - label: "[layouts]"
+    name: "_layouts"
+    folder: "content/_layouts"
+    create: true
+    extension: html
+    nested:
+      depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: code, default_language: html, output_code_only: true}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    summary: '{{dirname}}/{{filename}}.{{extension}}'
+  - label: "[includes]"
+    name: "_includes"
+    folder: "content/_includes"
+    create: true
+    extension: html
+    editor:
+      preview: false
+    nested:
+      depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: code, default_language: html, output_code_only: true}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    summary: '{{dirname}}/{{filename}}.{{extension}}'
+  - label: "[data]"
+    name: "_data"
+    folder: "content/_data"
+    create: true
+    extension: yml
+    format: yaml-frontmatter
+    editor:
+      preview: false
+    nested:
+      depth: 100
+    fields:
+      - {label: Inhalt, name: body, widget: code, default_language: yaml, output_code_only: true}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    summary: '{{dirname}}/{{filename}}.{{extension}}'
+  - label: "[content]"
+    name: "."
+    folder: "content"
+    create: true
+    extension: md
+    editor:
+      preview: false
+    nested:
+      depth: 100
+      summary: '{{slug}}'
+    fields:
+      - {label: Inhalt, name: body, widget: code, default_language: markdown, output_code_only: true}
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    summary: '{{dirname}}/{{filename}}.{{extension}}'
+
