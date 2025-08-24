@@ -33,7 +33,9 @@ jobs:
           cname: 'www.basketbears.de'                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: |
-            export CFLAGS="-std=gnu11"
-            bundle config set build.commonmarker "--with-cflags=$CFLAGS"
+            # Force older C dialect AND make sure stdbool.h is included
+            export CFLAGS="-std=gnu11 -include stdbool.h"
+            export CPPFLAGS="-include stdbool.h"
+            bundle config set build.commonmarker "--with-cflags=$CFLAGS --with-cppflags=$CPPFLAGS"
           ruby_ver: '3.3.4'          # Default is latest ruby version
 
