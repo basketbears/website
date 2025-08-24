@@ -29,9 +29,11 @@ jobs:
           jekyll_src: './'           # Default is root directory
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           jekyll_baseurl: ''         # Default is according to _config.yml
-          bundler_ver: '2.4.22'         # Default is latest bundler version
+          bundler_ver: '2.3.26'         # Default is latest bundler version
           cname: 'www.basketbears.de'                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
-          pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
-          ruby_ver: '3.1.4'          # Default is latest ruby version
+          pre_build_commands: |
+            export CFLAGS="-std=gnu11"
+            bundle config set build.commonmarker "--with-cflags=$CFLAGS"
+          ruby_ver: '3.3.4'          # Default is latest ruby version
 
