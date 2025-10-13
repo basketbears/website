@@ -33,7 +33,7 @@ Du möchtest Spiel und Spaß in einem Team, aus behinderten und nichtbehinderten
 <div class="column is-1"></div>
 <div class="column is-5" markdown="1">
 
-#### Oberliga
+#### Landesliga
 {% include iframe-card.html source="www.basketball-bund.net" height=400 style="margin-top: -1rem" src='https://www.basketball-bund.net/widget/widgets/index2.html#!/vereinswidget/verein/4686/params/%7B%22iframeHeight%22:400,%22showRefreshButton%22:true,%22titleColor%22:%22FFFFFF%22,%22titleBgColor%22:%221F2383%22,%22tapColor%22:%22000000%22,%22tapBgColor%22:%22EDAD19%22,%22colorMatchGroup%22:%22666666%22,%22bgColorMatchGroup%22:%22F0F0F0%22,%22colorMatchListItem%22:%22000000%22,%22bgColorMatchListItem%22:%22FFFFFF%22,%22showKuerzelInSpiele%22:false,%22vereinsId%22:%224686%22,%22homeMatchesOnlyInit%22:false,%22rangeDays%22:120%7D' %}
 
 </div>
