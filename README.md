@@ -55,3 +55,9 @@ bundle install
 ```sh
 bundle exec jekyll serve
 ```
+
+### Building:
+- run `bundle exec jekyll build`
+- copy the content of _site to the `gh-pages` branch
+- run `npm ci`, `npm run purgecss` and `rm -r node_modules`
+- commit the finished update
