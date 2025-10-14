@@ -218,6 +218,8 @@ section.section {
   .player-tag-image {
     width: 2rem;
     height: 2rem;
+    object-fit: cover;
+    object-position: top;
   }
   .player-tag-name {
     flex-grow: 1;

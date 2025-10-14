@@ -297,5 +297,26 @@
       "cardImagePreview": "/img/people/sylvester0-0/playerprofile-preview.webp",
       "tagImage": "/img/people/sylvester0-0/profile_128.webp"
     }
+  },
+  "noel0-0": {
+    "firstName": "Noel",
+    "lastName": "Meyer",
+    "displayName": "Noel M.",
+    "profileImage": "/img/people/noel0-0/profile_128.webp",
+    "isPlayer": true,
+    "playerInfo": {
+      "number": 17,
+      "tagImage":  "/img/people/noel0-0/profile_128.webp"
+    }
+  },
+  "grit0-0": {
+    "firstName": "Grit",
+    "lastName": "Bösterling",
+    "displayName": "Grit B.",
+    "profileImage": "/img/people/placeholder/profile_128.webp",
+    "isPlayer": false,
+    "playerInfo": {
+      "tagImage":  "/img/people/placeholder/profile_128.webp"
+    }
   }
 }
