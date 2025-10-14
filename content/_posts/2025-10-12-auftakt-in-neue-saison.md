@@ -56,16 +56,16 @@ Mit zwei Siegen im Rücken gehen die Basket Bears die kommenden Spiele selbstbew
 ## Stimmen zum 1. Spieltag
 
 Sven Kaiser, Assistant-Coach:  
-*„Einen Heimspieltag nur aus Trainersicht zu beschreiben, ist gar nicht so einfach. Die sportliche Leistung der Mannschaft spiegelte den gelungenen Tag wider. Der erste Spieltag war ein voller Erfolg und wir haben bewiesen, wie reibungslos unsere Mannschaft zusammenarbeitet.  
-Wir haben uns vorgenommen, im Training eingeübte taktische Grundlagen umzusetzen. Das ist uns schon recht gut gelungen, insbesondere der erfolgreiche Wurfschirm hat uns einige Punkte eingebracht.  
-Wir blieben über beide Spiele hinweg konzentriert, fokussiert und haben als Team überzeugt – das war der Schlüssel zum Erfolg.“*
+> „Einen Heimspieltag nur aus Trainersicht zu beschreiben, ist gar nicht so einfach. Die sportliche Leistung der Mannschaft spiegelte den gelungenen Tag wider. Der erste Spieltag war ein voller Erfolg und wir haben bewiesen, wie reibungslos unsere Mannschaft zusammenarbeitet.  
+> Wir haben uns vorgenommen, im Training eingeübte taktische Grundlagen umzusetzen. Das ist uns schon recht gut gelungen, insbesondere der erfolgreiche Wurfschirm hat uns einige Punkte eingebracht.  
+> Wir blieben über beide Spiele hinweg konzentriert, fokussiert und haben als Team überzeugt – das war der Schlüssel zum Erfolg.“
 
 
 Jarne Schneider, 
 Kapitän der Basket Bears Krefeld:   
-*"Ich finde, es war ein gelungener Auftakt, der Lust auf mehr macht. 
-Es waren zwei Spiele, die uns gezeigt haben, wie viel Qualität im Kader steckt. Wir wissen, woran wir im Training arbeiten müssen, und werden uns intensiv auf die kommenden Herausforderungen vorbereiten.
-Insgesamt war es ein Spieltag, der uns eine sehr gute Basis für die weitere Saison verschafft und ein Wegweiser für eine tolle Entwicklung dieses großartigen Teams ist.”*
+> "Ich finde, es war ein gelungener Auftakt, der Lust auf mehr macht. 
+> Es waren zwei Spiele, die uns gezeigt haben, wie viel Qualität im Kader steckt. Wir wissen, woran wir im Training arbeiten müssen, und werden uns intensiv auf die kommenden Herausforderungen vorbereiten.
+> Insgesamt war es ein Spieltag, der uns eine sehr gute Basis für die weitere Saison verschafft und ein Wegweiser für eine tolle Entwicklung dieses großartigen Teams ist.”
 
 
 Der Kader:  
