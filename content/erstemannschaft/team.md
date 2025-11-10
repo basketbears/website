@@ -12,7 +12,7 @@ title: 1. Mannschaft
 <div class="column is-4" markdown="0">
   <div class="columns is-multiline is-flex centered-on-desktop">
     <div class="column is-12" style="flex: none; width: 100%">
-      <p class="title is-3 has-text-centered" style="white-space: nowrap">Spieler-Trainer</p>
+      <p class="title is-3 has-text-centered" style="white-space: nowrap">Trainer</p>
     </div>
     <div class="{{trainer-columns}}">
       {% include player-profile-card.html playerId="linda0-0" background=site.theme_color %}
@@ -23,6 +23,9 @@ title: 1. Mannschaft
     <div class="{{trainer-columns}}">
       {% include player-profile-card.html playerId="sven0-0" background=site.theme_color %}
     </div>
+    <div class="{{trainer-columns}}">
+      {% include player-profile-card.html playerId="grit0-0" background=site.theme_color %}
+    </div>
   </div>
 </div>
 <div class="column is-8">
@@ -30,7 +33,7 @@ title: 1. Mannschaft
     <div class="column is-12" style="flex: none; width: 100%">
       <p class="title is-3 has-text-centered">Spieler</p>
     </div>
-    {% assign ersteMannschaft = "sylvester0-0,richard0-0,ahmed0-0,jarne0-0,yannik0-0,patrick0-0,luis0-0,noel0-0,sascha0-0,robin0-0,heiko0-0,andre0-0,martha0-0,mike0-0,sven1-0,patrick1-0" | split: ',' %}
+    {% assign ersteMannschaft = "sylvester0-0,richard0-0,ahmed0-0,jarne0-0,yannik0-0,patrick0-0,noel0-0,sascha0-0,robin0-0,heiko0-0,andre0-0,martha0-0,mike0-0,sven1-0,patrick1-0" | split: ',' %}
     {% for playerId in ersteMannschaft %}
       <div class="{{player-columns}}">
         {% include player-profile-card.html playerId=playerId %}

@@ -14,13 +14,15 @@
       <span class="card-footer-item player-name">
         {{player.firstName}}
       </span>
-      <span class="card-footer-item is-size-6-mobile is-size-5" style="flex-grow: 0">
-        {% if include.number != null %}
-        {{include.number}}
-        {% else %}
-        #{{player.playerInfo.number}}
-        {% endif %}
-      </span>
+      {% if include.number != null or player.playerInfo.number != null %}
+        <span class="card-footer-item is-size-6-mobile is-size-5" style="flex-grow: 0">
+          {% if include.number != null %}
+          {{include.number}}
+          {% else %}
+          #{{player.playerInfo.number}}
+          {% endif %}
+        </span>
+      {% endif %}
     </footer>
 </div>
 {% include player-profile-modal.html playerId=include.playerId number=include.number background=include.background%}
