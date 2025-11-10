@@ -306,9 +306,9 @@
     "isPlayer": true,
     "playerInfo": {
       "number": 17,
-      "cardImage": "/img/people/noel-0/playerprofile.webp",
-      "cardImagePreview": "/img/people/noel-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/noel-0/profile_128.webp"
+      "cardImage": "/img/people/noel0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/noel0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/noel0-0/profile_128.webp"
     }
   },
   "grit0-0": {
@@ -318,9 +318,9 @@
     "profileImage": "/img/people/grit0-0/profile_128.webp",
     "isPlayer": false,
     "playerInfo": {
-      "cardImage": "/img/people/grit-0/playerprofile.webp",
-      "cardImagePreview": "/img/people/grit-0/playerprofile-preview.webp",
-      "tagImage": "/img/people/grit-0/profile_128.webp"
+      "cardImage": "/img/people/grit0-0/playerprofile.webp",
+      "cardImagePreview": "/img/people/grit0-0/playerprofile-preview.webp",
+      "tagImage": "/img/people/grit0-0/profile_128.webp"
     }
   }
 }

@@ -4,6 +4,7 @@ date: 2025-11-02
 title: Erster Auswärtsspieltag in Duisburg  
 summary: Zwei weitere Siege festigen den starken Saisonstart  
 author: Jill Kaiser-Föhles, Patrick Kloppisch  
+image: /img/news/2025-11-02-auswaertsspiel-duisburg-preview.jpg
 players:
   - sylvester0-0
   - ahmed0-0
