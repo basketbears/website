@@ -82,13 +82,11 @@ Trainerteam der Basket Bears Krefeld:
 
 
 > „Der Spieltag in Duisburg hat uns gezeigt, dass man immer mit Überraschungen rechnen muss und das alles, auf das man sich wirklich verlassen kann, die eigene Leistung und das eigene Team ist. Jeder Spieltag und jede Mannschaft bringt ihren eigenen individuellen Spirit in ein Spiel.  
-Beide Mannschaften, sowohl die Gastgeber aus Duisburg/Herten, als auch die Gäste der Green Sharks Essen waren an diesem Tag spannende und ernstzunehmende Gegner. Die Duisburger Spieler haben uns als Spielgemeinschaft mit den Bulldogs aus Herten die erste Begegnung zu einer großen Herausforderung gemacht. Von Anfang an offensiv stark, mussten wir erkennen, dass wir jeden kleinen Fehler teuer bezahlen müssen. Ein tolles Spiel, welches wir am Ende nur ganz knapp und mit dem nötigen Quäntchen Glück für uns entscheiden konnten.
-
-
+> Beide Mannschaften, sowohl die Gastgeber aus Duisburg/Herten, als auch die Gäste der Green Sharks Essen waren an diesem Tag spannende und ernstzunehmende Gegner. Die Duisburger Spieler haben uns als Spielgemeinschaft mit den Bulldogs aus Herten die erste Begegnung zu einer großen Herausforderung gemacht. Von Anfang an offensiv stark, mussten wir erkennen, dass wir jeden kleinen Fehler teuer bezahlen müssen. Ein tolles Spiel, welches wir am Ende nur ganz knapp und mit dem nötigen Quäntchen Glück für uns entscheiden konnten.
+> 
 > Die Green Sharks, mit einer im Vergleich zum Hinspiel abgeänderten Mannschaft, waren ebenso eine Überraschung und haben uns vor allem im ersten Spielabschnitt viel Disziplin und Kampfgeist abverlangt. Gegen teils sehr erfahrene Gegner brauchen wir hier eine saubere Linie und müssen an der eigenen Foulbillanz arbeiten.
-Zumindest auf der Anzeigetafel haben wir dieses Spiel jedoch fast lückenlos dominieren können.
-
-
+> Zumindest auf der Anzeigetafel haben wir dieses Spiel jedoch fast lückenlos dominieren können.
+> 
 > Alles in allem ein Spieltag, von dem wir hoffentlich viel mitnehmen können, von dem wir lernen müssen, wie das ein oder andere besser funktionieren kann, auch, am Ende eines Spiels nicht zu sicher zu sein und die Konzentration bis zum Schluss beizubehalten und vor allem, dass das Wichtigste, was wir haben, ein solides Teamgefüge ist, in dem jeder sein Bestes einbringen kann. Denn das ist es, was uns wirklich trägt, was diesen Sport zu einer Leidenschaft macht: Die Menschen, die dich unterstützen. Egal ob auf dem Spielfeld, auf der Bank oder neben dem Feld.”
 
 
